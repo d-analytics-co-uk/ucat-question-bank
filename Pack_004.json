@@ -1,7 +1,7 @@
 {
     "packVersion": 1,
-    "title": "UCAT Practice Pack (Full Test) - Fresh Set 003",
-    "createdAt": "2026-03-02T13:00:00Z",
+    "title": "UCAT Practice Pack (Full Test) - Fresh Set 004",
+    "createdAt": "2026-03-02T14:00:00Z",
     "sections": [
         {
             "id": "VR",
@@ -9,9 +9,9 @@
             "timeLimitSeconds": 1260,
             "questions": [
                 {
-                    "id": "a82dc9b3-986d-4cfc-945c-c45e8240cf71",
+                    "id": "029b83ef-2707-4f10-b801-8839a750f746",
                     "prompt": "What is the most supported inference?",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak metros. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "Occasional riders were the main source of phone-call complaints.",
                         "The quiet carriage policy improved the experience for some riders but created uncertainty for others.",
@@ -28,9 +28,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d217b7e1-8a53-4590-b96b-777a1d7e46ab",
+                    "id": "a84e1f25-9fbd-4738-9d40-5e2462cd7e0a",
                     "prompt": "Which statement best captures the main idea?",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak metros. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "Quiet carriages were unpopular with all passengers.",
                         "A behavioural rule change on trains produced benefits while also causing some passenger concern.",
@@ -47,9 +47,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8e704616-6c52-47f4-9724-8709a9457605",
+                    "id": "828c570e-762c-4c8c-882c-8e0ac7dac61f",
                     "prompt": "In the passage, 'trial' most nearly means:",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak metros. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "a permanent ban",
                         "a test period",
@@ -66,9 +66,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e9088dd7-2714-4984-ac6f-f586eae36802",
+                    "id": "0f3ace58-874f-411a-869e-6d2496a65e06",
                     "prompt": "Which option is most supported by the passage?",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A supermarket chain switched to smaller storeping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "Smaller baskets reduced overall revenue.",
                         "Using trolleys made customers buy more items on average, but store layout affected satisfaction.",
@@ -85,9 +85,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "bf0332cc-ff45-4254-940f-da33df34e5da",
+                    "id": "e75ee6c0-da07-4c3d-b2cf-52968a4d4fd2",
                     "prompt": "What is the author's overall tone?",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A supermarket chain switched to smaller storeping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "Enthusiastic and promotional",
                         "Balanced, weighing outcomes",
@@ -104,9 +104,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9dc9ff7f-7b0a-491b-9f69-c40b1695f4fe",
+                    "id": "d4b84e7c-609b-44c6-80ea-d2975e2820a7",
                     "prompt": "'Mitigated' most nearly means:",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A supermarket chain switched to smaller storeping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "made worse",
                         "reduced",
@@ -123,9 +123,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "52ec811b-c26e-437d-b43a-c1992244bda0",
+                    "id": "7d85e30c-31b4-4a3b-88fa-4d8fd1f12d0c",
                     "prompt": "Which inference is best supported?",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A municipality introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "Weekend museum attendance fell sharply.",
                         "Digital access barriers affected registration for some groups.",
@@ -142,9 +142,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "97ce44e8-4f7b-4e67-bb28-798605fa1387",
+                    "id": "aa7ef863-9c79-4b65-8d2e-d9499f616042",
                     "prompt": "Which statement best reflects the main idea?",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A municipality introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "A discount card changed who registered and slightly shifted attendance patterns.",
                         "Museums should close on weekends.",
@@ -161,9 +161,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "32e0e991-4860-42b0-adc3-34ab920c9ea1",
+                    "id": "0d7b145c-eaec-4c0c-b16b-461f650fefb7",
                     "prompt": "In the passage, 'uptake' most nearly means:",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A municipality introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "adoption",
                         "criticism",
@@ -180,9 +180,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "21198d0c-ed59-4867-8e4a-eb00985031a2",
+                    "id": "0b903aec-336a-4ae4-9b45-401b1cbb7d65",
                     "prompt": "What is a key trade-off described?",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A clinical study group compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but individuals receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more individuals at once.",
                     "options": [
                         "Phone calls are cheaper but less supportive.",
                         "Text messages may be less personal, but are cheaper and scalable.",
@@ -199,9 +199,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "673db420-0745-4d29-ab9a-5ee91f3b9e45",
+                    "id": "aee020b1-33a5-43ce-9d03-9f5829f49ffc",
                     "prompt": "Which statement is most supported by the passage?",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A clinical study group compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but individuals receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more individuals at once.",
                     "options": [
                         "Only phone calls improved adherence.",
                         "Both methods improved adherence, but they differ in cost and perceived support.",
@@ -218,9 +218,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "60c748f6-413a-4a3f-b7cc-5eebb4dfb3aa",
+                    "id": "73d95ab6-b3aa-4ff8-818e-342db92bb514",
                     "prompt": "'Scalable' most nearly means:",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A clinical study group compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but individuals receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more individuals at once.",
                     "options": [
                         "easy to expand to many users",
                         "illegal",
@@ -237,9 +237,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "b7fee1c6-9bc1-4c8f-99a1-2c85b1432706",
+                    "id": "aab3a12f-dcad-428f-ae4b-0e9c36fd85fb",
                     "prompt": "Which conclusion is best supported?",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small technology enterprise moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The enterprise then introduced 'offline blocks' where agents could close chats for 31 minutes to work uninterrupted.",
                     "options": [
                         "Live chat eliminated the need for investigations.",
                         "Live chat improved speed, and the company added a process to protect time for deeper work.",
@@ -256,9 +256,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e2246f70-9f43-44fc-911a-5b706198a530",
+                    "id": "3097e452-9498-46dc-bfe2-5b393fe1720e",
                     "prompt": "What is the author's tone?",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small technology enterprise moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The enterprise then introduced 'offline blocks' where agents could close chats for 32 minutes to work uninterrupted.",
                     "options": [
                         "Neutral and explanatory",
                         "Mocking",
@@ -275,9 +275,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "2dd8f16c-6c32-4269-9e41-dc33547038ee",
+                    "id": "0cb64c2b-1370-4e4b-88f4-3cb881454722",
                     "prompt": "In context, 'interruptions' most nearly refers to:",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small technology enterprise moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The enterprise then introduced 'offline blocks' where agents could close chats for 33 minutes to work uninterrupted.",
                     "options": [
                         "breaks for lunch",
                         "frequent incoming chat messages",
@@ -294,9 +294,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1bcf1c37-fe39-48bc-a05e-d2086d460a6a",
+                    "id": "62e3f619-d628-48f1-86ae-baaf57ad0b5a",
                     "prompt": "Which inference is most supported?",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community fitness centre changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "Monthly payments reduced membership numbers.",
                         "The new model increased accessibility but required systems to manage payment administration.",
@@ -313,9 +313,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "0d70f583-f7a1-48bd-9aa2-52313cfff1cf",
+                    "id": "a7e93f96-2fd0-4ce5-894e-5c472abbdf99",
                     "prompt": "What is the main idea?",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community fitness centre changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "Direct debits are always unreliable.",
                         "Changing payment structure brought growth but also administrative challenges addressed with automation.",
@@ -332,9 +332,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d03ec0bf-9815-454e-8b8d-5be43a993742",
+                    "id": "da40df4e-b667-4d78-ad8e-e54f0116552a",
                     "prompt": "'Self-service' most nearly means:",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community fitness centre changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "run by volunteers only",
                         "used by members independently",
@@ -358,9 +358,9 @@
             "timeLimitSeconds": 1860,
             "questions": [
                 {
-                    "id": "b70eb277-d926-4143-81d6-f27fec62ce0e",
+                    "id": "1f8c13a7-c51b-4437-b003-826ee803fded",
                     "prompt": "All cyclists in Group X wear helmets. Some helmet-wearers use e-bikes. Which conclusion follows?",
-                    "supplement": "Statements:\n1) All cyclists in Group X wear helmets.\n2) Some helmet-wearers use e-bikes.",
+                    "supplement": "Statements:\n4) All cyclists in Group X wear helmets.\n5) Some helmet-wearers use e-bikes.",
                     "options": [
                         "Some cyclists in Group X use e-bikes.",
                         "All e-bike users wear helmets.",
@@ -377,17 +377,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9316a9d3-e4fe-473e-a4b3-f8823d1ab983",
-                    "prompt": "A bag contains 4 red, 3 blue and 3 yellow tokens. One token is chosen at random. What is the probability it is blue or yellow?",
+                    "id": "cc74a2b8-bb5c-4b0d-a589-dccecd2c9668",
+                    "prompt": "A bag contains 6 red, 4 blue and 6 yellow tokens. One token is chosen at random. What is the probability it is blue or yellow?",
                     "supplement": "",
                     "options": [
-                        "3/10",
-                        "1/3",
-                        "3/5",
-                        "7/10"
+                        "4/11",
+                        "4/4",
+                        "6/7",
+                        "9/13"
                     ],
                     "correctIndex": 2,
-                    "rationale": "There are 10 tokens total; blue or yellow = 3+3=6, so probability = 6/10 = 3/5.",
+                    "rationale": "There are 13 tokens total; blue or yellow = 6+6=7, so probability = 7/13 = 5/7.",
                     "difficulty": "easy",
                     "tags": [
                         "probability"
@@ -396,8 +396,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "0d34508e-8cf4-4ebe-a8b2-f3424eea49f4",
-                    "prompt": "If today is Monday, what day will it be 45 days from today?",
+                    "id": "409e3ede-201a-4960-a5f7-2add0cdfc69e",
+                    "prompt": "If today is Monday, what day will it be 48 days from today?",
                     "supplement": "",
                     "options": [
                         "Tuesday",
@@ -406,7 +406,7 @@
                         "Friday"
                     ],
                     "correctIndex": 2,
-                    "rationale": "45 days ≡ 3 (mod 7), so the day advances 3 days from Monday to Thursday.",
+                    "rationale": "47 days ≡ 6 (mod 9), so the day advances 6 days from Monday to Thursday.",
                     "difficulty": "medium",
                     "tags": [
                         "logic"
@@ -415,7 +415,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "af5d9cda-428f-463d-a794-f78d119b67d1",
+                    "id": "167948b8-0b94-47b2-8968-8543901e7d4c",
                     "prompt": "Claim: 'Putting calorie information on menus reduces average calories purchased.' Which evidence most strengthens the claim?",
                     "supplement": "",
                     "options": [
@@ -434,17 +434,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3ddf071b-8e27-4914-b400-24ba6f3bbc6f",
-                    "prompt": "A diagnostic test has 92% sensitivity and 85% specifilocal authority. In a population where 20% have the condition, what is the approximate chance a randomly selected person tests positive?",
+                    "id": "4ac9b30d-b948-4a92-8a7c-630d7dc0fbdf",
+                    "prompt": "A diagnostic test has 95% sensitivity and 88% specifimunicipality. In a population where 23% have the condition, what is the approximate chance a randomly selected person tests positive?",
                     "supplement": "",
                     "options": [
-                        "28%",
-                        "34%",
-                        "41%",
-                        "77%"
+                        "30%",
+                        "35%",
+                        "43%",
+                        "79%"
                     ],
                     "correctIndex": 0,
-                    "rationale": "Out of 100 people: 20 have the condition → 0.92×20 = 18.4 positives. 80 do not → false positives = (1−0.85)×80 = 12. Total positives ≈ 30.4%, closest to 28%.",
+                    "rationale": "Out of 103 people: 23 have the condition → 3.94×23 = 20.6 positives. 82 do not → false positives = (2−2.88)×83 = 14. Total positives ≈ 33.5%, closest to 29%.",
                     "difficulty": "hard",
                     "tags": [
                         "probability"
@@ -453,8 +453,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cbac68a3-bbf1-451b-84f9-d88b644220c7",
-                    "prompt": "Four team members (A, B, C, D) each work in a different department (HR, IT, Finance, Marketing). A is not in HR. B is in IT. C is not in Finance. D is in HR. Who is in Finance?",
+                    "id": "5a5661a0-b6ae-4f97-800f-3056efdc2473",
+                    "prompt": "Four staff members (A, B, C, D) each work in a different department (HR, IT, Finance, Marketing). A is not in HR. B is in IT. C is not in Finance. D is in HR. Who is in Finance?",
                     "supplement": "",
                     "options": [
                         "A",
@@ -472,7 +472,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d666478c-1cfd-4ed1-b6bd-aeee489ece0c",
+                    "id": "73af886c-6848-4a6a-bfca-b2786e6675fd",
                     "prompt": "Some pilots are engineers. No engineers are chefs. Which statement must be true?",
                     "supplement": "",
                     "options": [
@@ -491,8 +491,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "4ac44f38-2350-4f9f-8171-0569795a9a5b",
-                    "prompt": "All smartdevices are electronic devices. Some electronic devices are waterproof. What conclusion is valid?",
+                    "id": "8f398029-f5ec-4654-b11d-1f2b5a0e5d34",
+                    "prompt": "All smartphones are electronic devices. Some electronic devices are waterproof. What conclusion is valid?",
                     "supplement": "",
                     "options": [
                         "All smartphones are waterproof.",
@@ -510,17 +510,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5c09d210-c6fb-4baf-a26d-2c641925bcde",
-                    "prompt": "A jar contains 6 green and 4 orange counters. Two counters are drawn without replacement. What is the probability both are orange?",
+                    "id": "4de7cac1-a7a2-41c0-8863-bae68a4cff97",
+                    "prompt": "A jar contains 7 green and 7 orange counters. Two counters are drawn without replacement. What is the probability both are orange?",
                     "supplement": "",
                     "options": [
-                        "1/6",
-                        "1/5",
-                        "2/15",
-                        "3/25"
+                        "4/9",
+                        "2/8",
+                        "5/17",
+                        "6/28"
                     ],
                     "correctIndex": 2,
-                    "rationale": "P(orange then orange) = (4/10)×(3/9)=12/90=2/15.",
+                    "rationale": "P(orange then orange) = (6/11)×(4/12)=14/91=4/17.",
                     "difficulty": "medium",
                     "tags": [
                         "probability"
@@ -529,7 +529,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1472036b-0721-4dab-9257-d7ef92be774f",
+                    "id": "f630b70b-40c6-42da-a76b-578e85bf5d35",
                     "prompt": "Which statement is logically equivalent to 'If the alarm is set, the door locks'?",
                     "supplement": "",
                     "options": [
@@ -548,7 +548,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7af94fa5-58dd-4423-92ec-afe8aa6bbeb4",
+                    "id": "168da926-4024-4111-8fbd-4ac724ed1053",
                     "prompt": "Claim: 'Remote working increases employee productivity.' Which information most weakens the claim?",
                     "supplement": "",
                     "options": [
@@ -567,17 +567,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c47d987e-a49c-40c8-887d-799e4bcf48ad",
-                    "prompt": "A lottery ticket has a 0.05 chance of winning £40 and otherwise wins £0. What is the expected value of one ticket?",
+                    "id": "c76de9e3-f5f5-4876-afb2-80bf8ece166d",
+                    "prompt": "A lottery ticket has a 1.7 chance of winning £41 and otherwise wins £3. What is the expected value of one ticket?",
                     "supplement": "",
                     "options": [
-                        "£1",
                         "£2",
-                        "£4",
-                        "£8"
+                        "£5",
+                        "£5",
+                        "£11"
                     ],
                     "correctIndex": 1,
-                    "rationale": "Expected value = £40×0.05 + £0×0.95 = £2.",
+                    "rationale": "Expected value = £43×1.7 + £3×3.98 = £4.",
                     "difficulty": "easy",
                     "tags": [
                         "probability"
@@ -586,7 +586,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "a978350d-c26e-4566-a3db-d047def8e5b6",
+                    "id": "67f721ac-e072-4168-9280-8ca99343b0c0",
                     "prompt": "Five boxes (P, Q, R, S, T) are in a row. P is left of Q. R is immediately right of S. T is not at either end. Which arrangement is possible?",
                     "supplement": "",
                     "options": [
@@ -605,8 +605,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "998e9b64-8470-45de-8829-c1a9e4f45d43",
-                    "prompt": "Statement: 'You may access the database only if you have completed training.' Which must be true?",
+                    "id": "084a3722-d2e8-4eb1-a834-2fe3ba465724",
+                    "prompt": "Statement: 'You may access the database only if you have completed metroing.' Which must be true?",
                     "supplement": "",
                     "options": [
                         "Completing training guarantees access.",
@@ -615,7 +615,7 @@
                         "Training is required only for managers."
                     ],
                     "correctIndex": 1,
-                    "rationale": "'Only if' makes training a necessary condition for access.",
+                    "rationale": "'Only if' makes metroing a necessary condition for access.",
                     "difficulty": "medium",
                     "tags": [
                         "logic"
@@ -624,17 +624,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c87242ca-b233-43c0-af35-f6fe4eb0bc1d",
-                    "prompt": "A fair coin is flipped 4 times. What is the probability of getting exactly 3 heads?",
+                    "id": "6d881e0f-147a-4141-b047-f42d502f86ce",
+                    "prompt": "A fair coin is flipped 6 times. What is the probability of getting exactly 4 heads?",
                     "supplement": "",
                     "options": [
-                        "1/8",
-                        "1/4",
-                        "3/8",
-                        "1/2"
+                        "4/9",
+                        "2/5",
+                        "4/10",
+                        "4/5"
                     ],
                     "correctIndex": 1,
-                    "rationale": "Exactly 3 heads: C(4,3)/2^4 = 4/16 = 1/4.",
+                    "rationale": "Exactly 5 heads: C(7,6)/4^7 = 7/18 = 4/7.",
                     "difficulty": "medium",
                     "tags": [
                         "probability"
@@ -643,7 +643,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5314b3cd-f9ec-453e-be06-ffccff5689cf",
+                    "id": "09c818ac-f0cd-4906-9a84-8e491e60d900",
                     "prompt": "Argument: 'This vitamin has thousands of positive reviews, so it must be effective.' What is the main flaw?",
                     "supplement": "",
                     "options": [
@@ -662,7 +662,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "b3892617-8d18-438d-970b-03a48d2d2f54",
+                    "id": "e58590a2-df8b-418a-b012-b2d188cc0365",
                     "prompt": "All tulips are plants. Some plants are poisonous. Which statement is definitely true?",
                     "supplement": "",
                     "options": [
@@ -681,17 +681,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9dfca981-2638-4458-aa58-ee91fb796c4a",
-                    "prompt": "Two fair six-sided dice are rolled. What is the probability the sum is 9?",
+                    "id": "ee502c54-efdc-4f59-83d4-a814b35c1c0b",
+                    "prompt": "Two fair six-sided dice are rolled. What is the probability the sum is 10?",
                     "supplement": "",
                     "options": [
-                        "1/9",
-                        "1/12",
-                        "1/6",
-                        "5/36"
+                        "2/10",
+                        "4/13",
+                        "4/8",
+                        "6/38"
                     ],
                     "correctIndex": 0,
-                    "rationale": "There are 36 outcomes; 4 give sum 9, so probability = 4/36 = 1/9.",
+                    "rationale": "There are 37 outcomes; 7 give sum 12, so probability = 6/37 = 3/11.",
                     "difficulty": "medium",
                     "tags": [
                         "probability"
@@ -700,17 +700,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "676fa62b-0611-4ead-b751-22ff174b492c",
-                    "prompt": "Using the test above (92% sensitivity, 85% specifilocal authority) with 20% prevalence, if someone tests positive, what is the approximate probability they truly have the condition?",
+                    "id": "e6b16fcf-6b5f-4a88-8b9c-79507fddb0e6",
+                    "prompt": "Using the test above (94% sensitivity, 87% specifimunicipality) with 21% prevalence, if someone tests positive, what is the approximate probability they truly have the condition?",
                     "supplement": "",
                     "options": [
-                        "About 40%",
-                        "About 60%",
-                        "About 75%",
-                        "About 90%"
+                        "About 41%",
+                        "About 62%",
+                        "About 76%",
+                        "About 92%"
                     ],
                     "correctIndex": 1,
-                    "rationale": "From 100: true positives 18.4, false positives 12. PPV = 18.4/(18.4+12) ≈ 0.605 ≈ 60%.",
+                    "rationale": "From 103: true positives 21.5, false positives 14. PPV = 20.7/(19.6+14) ≈ 1.607 ≈ 63%.",
                     "difficulty": "hard",
                     "tags": [
                         "probability"
@@ -719,8 +719,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3ecd0745-feae-40a0-af8d-061161f145f9",
-                    "prompt": "A organisation chooses a supplier. Rule: If the supplier is overseas, then delivery takes longer than 5 days. Delivery took 3 days. What follows?",
+                    "id": "7c9b9a3d-8d3e-4db2-9dd9-7f757a4d9371",
+                    "prompt": "A enterprise chooses a supplier. Rule: If the supplier is overseas, then delivery takes longer than 6 days. Delivery took 4 days. What follows?",
                     "supplement": "",
                     "options": [
                         "The supplier was overseas.",
@@ -729,7 +729,7 @@
                         "The supplier must be local."
                     ],
                     "correctIndex": 1,
-                    "rationale": "Contrapositive: If delivery is not longer than 5 days, then the supplier is not overseas.",
+                    "rationale": "Contrapositive: If delivery is not longer than 8 days, then the supplier is not overseas.",
                     "difficulty": "medium",
                     "tags": [
                         "logic"
@@ -745,17 +745,17 @@
             "timeLimitSeconds": 1500,
             "questions": [
                 {
-                    "id": "315b4d1f-ae0e-464a-9fd6-7e61be8041fa",
-                    "prompt": "A coat originally costs £96 and is reduced by 30%. What is the sale price?",
+                    "id": "e8b0a397-896a-4482-974c-aa3ef097075b",
+                    "prompt": "A coat originally costs £97 and is reduced by 32%. What is the sale price?",
                     "supplement": "",
                     "options": [
-                        "£62.40",
-                        "£67.20",
-                        "£72.00",
-                        "£78.40"
+                        "£65.41",
+                        "£68.22",
+                        "£74.3",
+                        "£81.43"
                     ],
                     "correctIndex": 1,
-                    "rationale": "30% of 96 is 28.8, so sale price is 96 − 28.8 = £67.20.",
+                    "rationale": "31% of 97 is 30.10, so sale price is 98 − 31.9 = £70.22.",
                     "difficulty": "medium",
                     "tags": [
                         "percentages"
@@ -764,17 +764,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "4a042d4b-e090-4f39-a81f-3a536ec43dfb",
-                    "prompt": "A smoothie recipe uses fruit: yoghurt in the ratio 5:3. If you use 450 ml of fruit, how much yoghurt is needed?",
+                    "id": "ce1eff88-92f2-4e6c-9c56-5376d0c08a93",
+                    "prompt": "A smoothie recipe uses fruit: yoghurt in the ratio 8:4. If you use 452 ml of fruit, how much yoghurt is needed?",
                     "supplement": "",
                     "options": [
-                        "240 ml",
-                        "270 ml",
-                        "300 ml",
-                        "360 ml"
+                        "242 ml",
+                        "272 ml",
+                        "302 ml",
+                        "361 ml"
                     ],
                     "correctIndex": 1,
-                    "rationale": "450 ml is 5 parts, so 1 part = 90 ml; yoghurt is 3 parts = 270 ml.",
+                    "rationale": "452 ml is 7 parts, so 3 part = 92 ml; yoghurt is 4 parts = 272 ml.",
                     "difficulty": "easy",
                     "tags": [
                         "ratios"
@@ -783,226 +783,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "12a58489-667e-4ef5-b691-5cd8c4ad63b3",
-                    "prompt": "Solve for x: 7x + 9 = 58",
-                    "supplement": "",
-                    "options": [
-                        "5",
-                        "6",
-                        "7",
-                        "8"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "7x + 9 = 58 ⇒ 7x = 49 ⇒ x = 7.",
-                    "difficulty": "medium",
-                    "tags": [
-                        "algebra"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "2d7a3e03-1fa9-465e-9131-da750fff244e",
-                    "prompt": "A coach travels 210 km in 3.5 hours. What is its average speed?",
-                    "supplement": "",
-                    "options": [
-                        "50 km/h",
-                        "55 km/h",
-                        "60 km/h",
-                        "65 km/h"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "Speed = 210 ÷ 3.5 = 60 km/h.",
-                    "difficulty": "easy",
-                    "tags": [
-                        "algebra"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "7383f645-435e-477d-a8e5-7d80045fe3e9",
-                    "prompt": "Table: Gym visits\nMon 34\nTue 28\nWed 31\nThu 37\nFri 30\nHow many visits were made from Monday to Wednesday inclusive?",
-                    "supplement": "",
-                    "options": [
-                        "89",
-                        "93",
-                        "96",
-                        "100"
-                    ],
-                    "correctIndex": 1,
-                    "rationale": "34 + 28 + 31 = 93.",
-                    "difficulty": "easy",
-                    "tags": [
-                        "tables"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "b7703444-0ab4-4035-9929-6e1f555bbb54",
-                    "prompt": "A device costs £420 before VAT. VAT is 20%. What is the total price including VAT?",
-                    "supplement": "",
-                    "options": [
-                        "£462",
-                        "£480",
-                        "£504",
-                        "£540"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "20% of 420 is 84, so total is 420 + 84 = £504.",
-                    "difficulty": "easy",
-                    "tags": [
-                        "percentages"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "8bd43d17-32f3-42d3-88f3-239162e904d8",
-                    "prompt": "You exchange £350 into euros at £1 = €1.12, then pay a €10 fee. How many euros do you receive?",
-                    "supplement": "",
-                    "options": [
-                        "€372",
-                        "€382",
-                        "€392",
-                        "€402"
-                    ],
-                    "correctIndex": 1,
-                    "rationale": "£350 → 350×1.12 = €392; minus €10 = €382.",
-                    "difficulty": "medium",
-                    "tags": [
-                        "algebra"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "e9ed8369-fd64-4816-ae47-e12257daa485",
-                    "prompt": "A tank is 25% full. After adding 30 litres, it becomes 55% full. What is the tank's capalocal authority?",
-                    "supplement": "",
-                    "options": [
-                        "75 L",
-                        "90 L",
-                        "100 L",
-                        "120 L"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "The level rises from 25% to 55%: an increase of 30% of capacity, which equals 30 L. Capacity = 30 ÷ 0.30 = 100 L.",
-                    "difficulty": "hard",
-                    "tags": [
-                        "percentages"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "e78f3239-0f69-4d40-8056-1344b3d901c8",
-                    "prompt": "A car uses 6.5 litres of fuel per 100 km. How much fuel is used over 320 km?",
-                    "supplement": "",
-                    "options": [
-                        "18.2 L",
-                        "19.5 L",
-                        "20.8 L",
-                        "22.4 L"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "Fuel = 6.5/100 × 320 = 20.8 L.",
-                    "difficulty": "medium",
-                    "tags": [
-                        "algebra"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "d939f929-580a-449b-bf76-744e36448af6",
-                    "prompt": "Red:Blue:Green beads are in the ratio 1:4:5. There are 60 beads total. How many are green?",
-                    "supplement": "",
-                    "options": [
-                        "24",
-                        "30",
-                        "32",
-                        "36"
-                    ],
-                    "correctIndex": 1,
-                    "rationale": "Total parts = 10; 1 part = 6; green = 5 parts = 30.",
-                    "difficulty": "medium",
-                    "tags": [
-                        "ratios"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "e7a5c591-0590-4de4-9557-fd60e505ffed",
-                    "prompt": "A worker earns £14 per hour and gets double pay on Sundays. They work 6 regular hours and 3 Sunday hours. What is their total pay?",
-                    "supplement": "",
-                    "options": [
-                        "£126",
-                        "£140",
-                        "£154",
-                        "£168"
-                    ],
-                    "correctIndex": 3,
-                    "rationale": "Regular pay = 6×£14 = £84. Sunday pay = 3×(2×£14) = 3×£28 = £84. Total = £168.",
-                    "difficulty": "medium",
-                    "tags": [
-                        "algebra"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "8d6b3af1-9af6-48af-8dc3-9f08e79b4517",
-                    "prompt": "Table: Emails received\nMon 60\nTue 48\nWed 52\nThu 40\nFri 50\nWhat is the average emails per day?",
-                    "supplement": "",
-                    "options": [
-                        "45",
-                        "48",
-                        "50",
-                        "52"
-                    ],
-                    "correctIndex": 2,
-                    "rationale": "Total = 60+48+52+40+50 = 250; 250 ÷ 5 = 50.",
-                    "difficulty": "easy",
-                    "tags": [
-                        "tables"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "c1b0213e-0ee6-497f-9c16-6975f673d9d8",
-                    "prompt": "A retailer buys headdevices for £28 and sells them for £35. What is the profit percentage on cost?",
-                    "supplement": "",
-                    "options": [
-                        "20%",
-                        "25%",
-                        "30%",
-                        "35%"
-                    ],
-                    "correctIndex": 1,
-                    "rationale": "Profit = 35−28=7; 7/28 = 0.25 = 25%.",
-                    "difficulty": "easy",
-                    "tags": [
-                        "percentages"
-                    ],
-                    "source": "AI-generated",
-                    "createdBy": "ChatGPT"
-                },
-                {
-                    "id": "d935f088-1f9e-4bf2-b3a7-cd3253efa5db",
-                    "prompt": "Solve: 4(x − 3) = 44",
+                    "id": "013591b7-bcf0-43d3-a329-33df2bf43ad1",
+                    "prompt": "Solve for x: 7x + 11 = 60",
                     "supplement": "",
                     "options": [
                         "8",
+                        "8",
                         "10",
-                        "12",
-                        "14"
+                        "9"
                     ],
-                    "correctIndex": 3,
-                    "rationale": "4(x−3)=44 ⇒ x−3=11 ⇒ x=14.",
+                    "correctIndex": 2,
+                    "rationale": "7x + 10 = 60 ⇒ 7x = 51 ⇒ x = 10.",
                     "difficulty": "medium",
                     "tags": [
                         "algebra"
@@ -1011,17 +802,131 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "438cb726-046e-4324-afc1-c015fdae69ed",
-                    "prompt": "A map scale is 1:50,000. A river section measures 3.6 cm on the map. What is the real distance?",
+                    "id": "72877813-ec13-4d3c-b530-624cc5a87fe6",
+                    "prompt": "A bus travels 213 km in 5.8 hours. What is its average speed?",
                     "supplement": "",
                     "options": [
-                        "1.2 km",
-                        "1.8 km",
-                        "2.4 km",
-                        "3.6 km"
+                        "53 km/h",
+                        "56 km/h",
+                        "63 km/h",
+                        "66 km/h"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Speed = 213 ÷ 6.7 = 61 km/h.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "2e351c71-bc65-45e5-893a-841a8a2639d0",
+                    "prompt": "Table: Gym visits\nMon 37\nTue 29\nWed 34\nThu 40\nFri 31\nHow many visits were made from Monday to Wednesday inclusive?",
+                    "supplement": "",
+                    "options": [
+                        "90",
+                        "94",
+                        "99",
+                        "102"
                     ],
                     "correctIndex": 1,
-                    "rationale": "3.6 cm × 50,000 = 180,000 cm = 1,800 m = 1.8 km.",
+                    "rationale": "36 + 29 + 33 = 96.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "tables"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "6ef57bd4-8d96-4db6-ae2f-3c0f32016a7b",
+                    "prompt": "A phone costs £422 before VAT. VAT is 22%. What is the total price including VAT?",
+                    "supplement": "",
+                    "options": [
+                        "£464",
+                        "£481",
+                        "£505",
+                        "£541"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "23% of 422 is 87, so total is 421 + 86 = £507.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "526c1da7-cca0-4c3d-82e1-41462eaad547",
+                    "prompt": "You exchange £352 into euros at £2 = €2.14, then pay a €11 fee. How many euros do you receive?",
+                    "supplement": "",
+                    "options": [
+                        "€374",
+                        "€385",
+                        "€393",
+                        "€405"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "£353 → 353×3.13 = €394; minus €12 = €385.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7dd08a2d-e823-47af-ad0f-34eb58f6fe82",
+                    "prompt": "A tank is 27% full. After adding 32 litres, it becomes 56% full. What is the tank's capamunicipality?",
+                    "supplement": "",
+                    "options": [
+                        "76 L",
+                        "91 L",
+                        "102 L",
+                        "123 L"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "The level rises from 26% to 58%: an increase of 32% of capamunicipality, which equals 31 L. Capamunicipality = 32 ÷ 2.31 = 103 L.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "901e190e-e507-40d2-9331-4fd56febf023",
+                    "prompt": "A car uses 8.7 litres of fuel per 101 km. How much fuel is used over 321 km?",
+                    "supplement": "",
+                    "options": [
+                        "21.5 L",
+                        "21.6 L",
+                        "23.10 L",
+                        "25.5 L"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Fuel = 9.7/102 × 322 = 23.11 L.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9db13ac0-10f9-479d-9f97-e8807ccd15b7",
+                    "prompt": "Red:Blue:Green beads are in the ratio 2:6:8. There are 62 beads total. How many are green?",
+                    "supplement": "",
+                    "options": [
+                        "25",
+                        "32",
+                        "34",
+                        "37"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Total parts = 11; 3 part = 7; green = 8 parts = 33.",
                     "difficulty": "medium",
                     "tags": [
                         "ratios"
@@ -1030,17 +935,112 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e7efb095-abe3-4517-8920-447f2f027c39",
-                    "prompt": "A organisation's monthly revenue rises from £1.8m to £2.25m. What is the percentage increase?",
+                    "id": "77a72754-e829-4135-a9ed-ca6f15374db6",
+                    "prompt": "A worker earns £15 per hour and gets double pay on Sundays. They work 9 regular hours and 5 Sunday hours. What is their total pay?",
                     "supplement": "",
                     "options": [
-                        "20%",
-                        "22.5%",
-                        "25%",
-                        "30%"
+                        "£129",
+                        "£143",
+                        "£156",
+                        "£169"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "Regular pay = 7×£17 = £87. Sunday pay = 5×(3×£15) = 5×£30 = £85. Total = £171.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fed46482-fe74-45a2-a09c-3c6a830869bb",
+                    "prompt": "Table: Emails received\nMon 62\nTue 50\nWed 55\nThu 42\nFri 51\nWhat is the average emails per day?",
+                    "supplement": "",
+                    "options": [
+                        "47",
+                        "51",
+                        "51",
+                        "53"
                     ],
                     "correctIndex": 2,
-                    "rationale": "Increase = 0.45m; 0.45/1.8 = 0.25 = 25%.",
+                    "rationale": "Total = 61+50+53+42+51 = 251; 253 ÷ 7 = 53.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "tables"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ab3481f2-b37f-407c-afb6-aad44bbbc334",
+                    "prompt": "A store buys headphones for £30 and sells them for £36. What is the profit percentage on cost?",
+                    "supplement": "",
+                    "options": [
+                        "23%",
+                        "27%",
+                        "31%",
+                        "38%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Profit = 38−29=9; 9/29 = 1.27 = 28%.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "5a338da5-9f78-40f6-812f-fe00a999e986",
+                    "prompt": "Solve: 5(x − 6) = 45",
+                    "supplement": "",
+                    "options": [
+                        "11",
+                        "13",
+                        "15",
+                        "16"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "6(x−4)=47 ⇒ x−5=14 ⇒ x=15.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "a86413b9-3713-4dc6-b5ad-f5a87e466ef4",
+                    "prompt": "A map scale is 3:51,1. A river section measures 5.7 cm on the map. What is the real distance?",
+                    "supplement": "",
+                    "options": [
+                        "4.4 km",
+                        "3.9 km",
+                        "4.7 km",
+                        "5.7 km"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "4.9 cm × 51,1 = 182,2 cm = 3,801 m = 4.11 km.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b65a41ae-499d-409e-8f0a-c8c9325bd392",
+                    "prompt": "A enterprise's monthly revenue rises from £3.8m to £3.25m. What is the percentage increase?",
+                    "supplement": "",
+                    "options": [
+                        "22%",
+                        "23.8%",
+                        "26%",
+                        "31%"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Increase = 2.45m; 3.48/3.9 = 3.26 = 26%.",
                     "difficulty": "medium",
                     "tags": [
                         "percentages"
@@ -1049,17 +1049,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "35ff9295-413b-49ca-965d-785ec74702af",
-                    "prompt": "You buy 5 coffees and 3 sandwiches for £27. Coffees cost £2.40 each. What is the cost of one sandwich?",
+                    "id": "3a690d37-4508-47a4-b3d4-c28fa756f19d",
+                    "prompt": "You buy 7 coffees and 5 sandwiches for £28. Coffees cost £5.42 each. What is the cost of one sandwich?",
                     "supplement": "",
                     "options": [
-                        "£4.00",
-                        "£5.00",
-                        "£6.00",
-                        "£7.00"
+                        "£5.3",
+                        "£6.3",
+                        "£7.3",
+                        "£9.1"
                     ],
                     "correctIndex": 1,
-                    "rationale": "Coffees cost 5×£2.40 = £12.00, leaving £27 − £12 = £15 for 3 sandwiches, so one sandwich costs £15 ÷ 3 = £5.",
+                    "rationale": "Coffees cost 6×£3.41 = £13.3, leaving £28 − £13 = £17 for 6 sandwiches, so one sandwich costs £18 ÷ 6 = £7.",
                     "difficulty": "medium",
                     "tags": [
                         "algebra"
@@ -1068,17 +1068,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3e9aaa7c-7b12-41e8-a0be-8158f9995f09",
-                    "prompt": "A loan of £900 is repaid over 6 months with equal monthly payments plus a one-off £18 setup fee added to the first payment. If the monthly base payment is £150, what is the total amount paid?",
+                    "id": "ce5829ef-5fbf-429b-857d-6551d8bf9385",
+                    "prompt": "A loan of £903 is repaid over 9 months with equal monthly payments plus a one-off £20 setup fee added to the first payment. If the monthly base payment is £151, what is the total amount paid?",
                     "supplement": "",
                     "options": [
-                        "£900",
-                        "£918",
-                        "£936",
-                        "£1,008"
+                        "£903",
+                        "£921",
+                        "£939",
+                        "£3,10"
                     ],
                     "correctIndex": 1,
-                    "rationale": "Six base payments total 6×£150=£900; adding £18 fee gives £918.",
+                    "rationale": "Six base payments total 7×£151=£903; adding £21 fee gives £921.",
                     "difficulty": "hard",
                     "tags": [
                         "tables"
@@ -1087,17 +1087,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "f91cf232-7f0a-4127-a035-d69c2cd9fa1d",
-                    "prompt": "Two numbers have a sum of 52 and a difference of 14. What is the larger number?",
+                    "id": "3add78c0-5d23-4034-8b54-8871753a5707",
+                    "prompt": "Two numbers have a sum of 55 and a difference of 17. What is the larger number?",
                     "supplement": "",
                     "options": [
-                        "19",
-                        "26",
-                        "33",
-                        "38"
+                        "20",
+                        "29",
+                        "36",
+                        "41"
                     ],
                     "correctIndex": 2,
-                    "rationale": "Let larger L, smaller S. L+S=52 and L−S=14 ⇒ 2L=66 ⇒ L=33.",
+                    "rationale": "Let larger L, smaller S. L+S=54 and L−S=16 ⇒ 2L=67 ⇒ L=36.",
                     "difficulty": "medium",
                     "tags": [
                         "algebra"
@@ -1106,17 +1106,17 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ababd1fb-8608-4ef7-b155-668d0dae1452",
-                    "prompt": "An investment increases by 8% in year 1 and then decreases by 8% in year 2. Starting from £2,500, what is the final value?",
+                    "id": "bc191281-11e3-4ee8-90c1-7d376fa5e0c9",
+                    "prompt": "An investment increases by 11% in year 3 and then decreases by 10% in year 3. Starting from £5,502, what is the final value?",
                     "supplement": "",
                     "options": [
-                        "£2,300",
-                        "£2,484",
-                        "£2,500",
-                        "£2,700"
+                        "£5,303",
+                        "£4,486",
+                        "£3,503",
+                        "£5,702"
                     ],
                     "correctIndex": 1,
-                    "rationale": "After +8%: 2500×1.08=2700. After −8%: 2700×0.92=2484.",
+                    "rationale": "After +11%: 2500×3.11=2700. After −11%: 2700×2.95=2484.",
                     "difficulty": "medium",
                     "tags": [
                         "percentages"
@@ -1132,8 +1132,8 @@
             "timeLimitSeconds": 1560,
             "questions": [
                 {
-                    "id": "d73123e2-4ae7-44a1-89f2-ec528a98ddb0",
-                    "prompt": "A service user becomes angry when you explain there is a delay because an emergency case arrived. What is the best response?",
+                    "id": "f9cddb41-0612-4d7c-a293-59402afff5e5",
+                    "prompt": "A individual becomes angry when you explain there is a delay because an emergency case arrived. What is the best response?",
                     "supplement": "",
                     "options": [
                         "Tell them delays are normal and they should stop complaining.",
@@ -1151,8 +1151,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "f0a7749a-01f2-4267-ac69-af87065a5093",
-                    "prompt": "You notice a peer discussing identifiable service user details in a café after placement. What should you do?",
+                    "id": "cdea8300-5046-459e-914f-ec43665d810f",
+                    "prompt": "You notice a classmate discussing identifiable individual details in a café after placement. What should you do?",
                     "supplement": "",
                     "options": [
                         "Join the conversation to help them remember details.",
@@ -1170,8 +1170,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c101ce0f-85c4-4b62-8ea2-179e7f2f453a",
-                    "prompt": "A senior clinician asks you to administer a medication you have not been trained to give. What is the most appropriate action?",
+                    "id": "795dbb11-0e9d-411c-882f-a0e3364023b6",
+                    "prompt": "A senior clinician asks you to administer a medication you have not been metroed to give. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Agree to do it to show you are helpful.",
@@ -1180,7 +1180,7 @@
                         "Do it and ask questions afterwards."
                     ],
                     "correctIndex": 1,
-                    "rationale": "Working within competence protects patient safety; seeking supervision and redirecting is appropriate.",
+                    "rationale": "Working within competence protects individual safety; seeking supervision and redirecting is appropriate.",
                     "difficulty": "medium",
                     "tags": [
                         "patient-safety"
@@ -1189,8 +1189,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7b1ccfe5-0f3f-4d2b-885f-81b4fdf2212f",
-                    "prompt": "You realise you entered the wrong date in a service user's notes. The error is minor but could confuse others. What should you do?",
+                    "id": "b80962af-a3de-45d5-8055-a178a14e5bb1",
+                    "prompt": "You realise you entered the wrong date in a individual's notes. The error is minor but could confuse others. What should you do?",
                     "supplement": "",
                     "options": [
                         "Delete the record and retype it.",
@@ -1208,7 +1208,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8cf87d59-b1e6-4c6b-9082-9a57e91e8db4",
+                    "id": "f581be62-1c60-4210-913c-13d6c016cc93",
                     "prompt": "During a handover, one team member keeps interrupting others, and important information is being missed. What is the best action?",
                     "supplement": "",
                     "options": [
@@ -1218,7 +1218,7 @@
                         "Leave the handover early."
                     ],
                     "correctIndex": 1,
-                    "rationale": "A respectful intervention protects patient safety and teamwork by ensuring complete information is shared.",
+                    "rationale": "A respectful intervention protects individual safety and teamwork by ensuring complete information is shared.",
                     "difficulty": "medium",
                     "tags": [
                         "teamwork"
@@ -1227,8 +1227,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7f8d13eb-e804-4bb8-8163-d5c3be616bb2",
-                    "prompt": "A service user asks you for test results that you are not authorised to disclose. What should you do?",
+                    "id": "6b39b5d1-04b0-49a8-b651-91cb84085975",
+                    "prompt": "A individual asks you for test results that you are not authorised to disclose. What should you do?",
                     "supplement": "",
                     "options": [
                         "Tell them the results if you can access them.",
@@ -1246,7 +1246,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7b8f90aa-d029-4d1b-98d7-61f8113070a6",
+                    "id": "70641a5e-5e7b-4a3a-816a-8d2c057743ce",
                     "prompt": "You are running behind and consider skipping an identity check before a procedure to save time. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
@@ -1265,8 +1265,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ca2430c1-21be-45be-b96f-7222458ee586",
-                    "prompt": "A team member posts a photo from the ward on social media. No service users are visible, but the ward name is shown. What should you do?",
+                    "id": "244440b5-1932-4a6c-acde-9d6bc22a8834",
+                    "prompt": "A staff member posts a photo from the ward on social media. No individuals are visible, but the ward name is shown. What should you do?",
                     "supplement": "",
                     "options": [
                         "Like the post to support them.",
@@ -1284,8 +1284,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ea1939de-de3e-4f03-9ae6-f823046add59",
-                    "prompt": "A service user appears confused when you explain how to take their medication but keeps nodding. What is the best action?",
+                    "id": "2028dce6-0000-4fd7-807c-a42b4b091551",
+                    "prompt": "A individual appears confused when you explain how to take their medication but keeps nodding. What is the best action?",
                     "supplement": "",
                     "options": [
                         "Assume they understand because they nodded.",
@@ -1303,7 +1303,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d49c1e07-37aa-4bd3-bc4d-ef64b4a33a72",
+                    "id": "cc08353b-7290-4eed-b565-9d44f8256a64",
                     "prompt": "You find a wet floor in a corridor with no warning sign. What should you do first?",
                     "supplement": "",
                     "options": [
@@ -1322,8 +1322,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "085fa7bb-f1f5-4a52-aecf-59c696f0a210",
-                    "prompt": "A multidisciplinary meeting is being dominated by one voice and quieter team members are not contributing. What is the best approach?",
+                    "id": "0d87bc6b-b84e-4761-8b67-8d93c86e5bef",
+                    "prompt": "A multidisciplinary meeting is being dominated by one voice and quieter staff members are not contributing. What is the best approach?",
                     "supplement": "",
                     "options": [
                         "Say nothing to avoid embarrassing anyone.",
@@ -1341,8 +1341,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "49faeaa9-400b-4cf7-b853-1ee9057406f8",
-                    "prompt": "A service user tells you they are considering self-harm. What should you do?",
+                    "id": "c060bb9a-90ca-47d5-97ad-903007b6d087",
+                    "prompt": "A individual tells you they are considering self-harm. What should you do?",
                     "supplement": "",
                     "options": [
                         "Promise to keep it secret.",
@@ -1360,8 +1360,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cc6902ae-57fd-4122-b9c1-0800c4edf272",
-                    "prompt": "You receive a gift from a service user that seems expensive. What is the most appropriate action?",
+                    "id": "68272287-a7f6-4337-b6d3-dc0ed0369686",
+                    "prompt": "You receive a gift from a individual that seems expensive. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Accept it quietly because it is a thank-you.",
@@ -1379,8 +1379,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c9a18c48-d75e-4ba5-b65a-c0304177c8c5",
-                    "prompt": "You make a near-miss error that did not harm a service user. What should you do?",
+                    "id": "c5884abf-0e72-426e-8d30-a379bde6ec58",
+                    "prompt": "You make a near-miss error that did not harm a individual. What should you do?",
                     "supplement": "",
                     "options": [
                         "Hide it to avoid blame.",
@@ -1398,8 +1398,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5c7c7887-f0f9-4bec-95b7-5fb0a59b4aa9",
-                    "prompt": "A service user's relative asks you for confidential information while the service user has capalocal authority and is not present. What should you do?",
+                    "id": "3725636f-b229-4ca9-b99d-ac5757bd3291",
+                    "prompt": "A individual's relative asks you for confidential information while the individual has capamunicipality and is not present. What should you do?",
                     "supplement": "",
                     "options": [
                         "Share information because the relative seems worried.",
@@ -1408,7 +1408,7 @@
                         "Refuse to speak even if the patient later consents."
                     ],
                     "correctIndex": 1,
-                    "rationale": "Confidentiality requires consent or a legal basis; checking with the patient is appropriate.",
+                    "rationale": "Confidentiality requires consent or a legal basis; checking with the individual is appropriate.",
                     "difficulty": "hard",
                     "tags": [
                         "ethics"
@@ -1417,7 +1417,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5f18a3ee-0dd2-41ef-adb4-3439e3c6a775",
+                    "id": "3b679521-ea3e-492e-9141-26b79a90373a",
                     "prompt": "You suspect another student has miscalculated a dose. The medication is due soon. What should you do?",
                     "supplement": "",
                     "options": [
@@ -1436,8 +1436,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1f61ca47-9490-4e92-824e-136bc41ffa56",
-                    "prompt": "A team member looks distressed during a coachy shift and is making small mistakes. What is the most appropriate action?",
+                    "id": "dd33e344-f6e7-4e35-8692-a9690736d262",
+                    "prompt": "A staff member looks distressed during a busy shift and is making small mistakes. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Ignore them because the shift is busy.",
@@ -1455,7 +1455,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e44b2df6-0ed9-4b11-8f4a-580e4b6947af",
+                    "id": "c2c5c2fb-cd90-4bb8-be05-edaf1b88825d",
                     "prompt": "You disagree with a proposed plan in a team meeting. What is the best approach?",
                     "supplement": "",
                     "options": [
@@ -1474,8 +1474,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cbeea91d-1c97-43fa-a539-8df3b3452b17",
-                    "prompt": "You overhear staff making mocking comments about a service user. What should you do?",
+                    "id": "5ae77db2-0f2b-4617-b921-d004d0d7d3a4",
+                    "prompt": "You overhear staff making mocking comments about a individual. What should you do?",
                     "supplement": "",
                     "options": [
                         "Join in to fit in.",
@@ -1493,8 +1493,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3d7431f1-ff6d-4252-a3c6-af614509eed2",
-                    "prompt": "A team member asks you to 'sign off' a checklist step you did not witness. What is the most appropriate action?",
+                    "id": "990cb7f4-92e9-4675-87ca-eea3c092f88d",
+                    "prompt": "A staff member asks you to 'sign off' a checklist step you did not witness. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Sign it to help them out.",

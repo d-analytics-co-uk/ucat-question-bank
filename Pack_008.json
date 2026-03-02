@@ -1,0 +1,1517 @@
+{
+    "packVersion": 1,
+    "title": "UCAT Practice Pack (Full Test) - Fresh Set 008 (Fully New)",
+    "createdAt": "2026-03-02T18:00:00Z",
+    "sections": [
+        {
+            "id": "VR",
+            "name": "Verbal Reasoning",
+            "timeLimitSeconds": 1260,
+            "questions": [
+                {
+                    "id": "30196f9f-2a54-46e0-9326-a3e3efae9955",
+                    "prompt": "Which conclusion is best supported by the passage?",
+                    "supplement": "A mountain village introduced timed entry to its popular forest trail after weekend crowding led to several minor injuries. The council argued that spacing visitors out would improve safety and protect wildlife. Local cafés worried about fewer spontaneous visitors, yet a follow-up survey found many walkers stayed longer in town because they planned their trip in advance.",
+                    "options": [
+                        "Timed entry reduced overall visitor numbers dramatically.",
+                        "Planning requirements may have reduced spontaneity but encouraged longer visits for some people.",
+                        "Cafés benefited immediately from the policy.",
+                        "Wildlife protection was not considered by the council."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The passage notes café concerns about spontaneity, but also that many walkers stayed longer because they planned ahead.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "011d60dd-69b3-470e-ad79-a0fb7225ef91",
+                    "prompt": "What is the main idea of the passage?",
+                    "supplement": "A mountain village introduced timed entry to its popular forest trail after weekend crowding led to several minor injuries. The council argued that spacing visitors out would improve safety and protect wildlife. Local cafés worried about fewer spontaneous visitors, yet a follow-up survey found many walkers stayed longer in town because they planned their trip in advance.",
+                    "options": [
+                        "Timed entry was introduced to manage safety and environmental concerns, with mixed effects on local business expectations.",
+                        "Cliff paths should always be closed on weekends.",
+                        "Crowds are the only cause of injuries.",
+                        "Visitors dislike planning trips."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "It describes the reason for timed entry and the differing impacts/concerns.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "1504caf5-452d-4245-acfd-a77421a785f0",
+                    "prompt": "In the passage, 'spontaneous' most nearly means:",
+                    "supplement": "A mountain village introduced timed entry to its popular forest trail after weekend crowding led to several minor injuries. The council argued that spacing visitors out would improve safety and protect wildlife. Local cafés worried about fewer spontaneous visitors, yet a follow-up survey found many walkers stayed longer in town because they planned their trip in advance.",
+                    "options": [
+                        "carefully scheduled",
+                        "unplanned",
+                        "dangerous",
+                        "expensive"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Spontaneous visitors are those who come without planning in advance.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c4f135bd-2fdb-4bc1-9543-4e47d9264d70",
+                    "prompt": "Which statement is most supported?",
+                    "supplement": "A regional clinic piloted electronic whiteboards to display bed availability. Nurses reported fewer phone calls to locate beds, but doctors said updates sometimes lagged when departments were busy. The project team responded by assigning a dedicated coordinator during peak hours to confirm changes in real time.",
+                    "options": [
+                        "Electronic whiteboards eliminated the need for staff communication.",
+                        "The system improved efficiency, but accuracy depended on timely updates, prompting a workflow change.",
+                        "Doctors refused to use electronic systems.",
+                        "Wards became less busy during the pilot."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "It reduced calls, but lagging updates led to adding a coordinator to ensure real-time accuracy.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "81a14fda-bb31-479f-8472-a9299fbda365",
+                    "prompt": "The author's tone is best described as:",
+                    "supplement": "A regional clinic piloted electronic whiteboards to display bed availability. Nurses reported fewer phone calls to locate beds, but doctors said updates sometimes lagged when departments were busy. The project team responded by assigning a dedicated coordinator during peak hours to confirm changes in real time.",
+                    "options": [
+                        "Critical and dismissive",
+                        "Neutral and informative",
+                        "Humorous",
+                        "Emotional"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The passage reports outcomes and a response without strong judgement.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "author-tone"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fd0702ca-3bbc-4bf6-bcb2-0fb9b0672cdd",
+                    "prompt": "'Lagged' most nearly means:",
+                    "supplement": "A regional clinic piloted electronic whiteboards to display bed availability. Nurses reported fewer phone calls to locate beds, but doctors said updates sometimes lagged when departments were busy. The project team responded by assigning a dedicated coordinator during peak hours to confirm changes in real time.",
+                    "options": [
+                        "ran ahead",
+                        "was delayed",
+                        "was cancelled",
+                        "was celebrated"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Updates 'lagged' when busy, meaning they were delayed.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "a467c45a-a00e-4b05-a96a-1629bad1ddde",
+                    "prompt": "Which inference is best supported?",
+                    "supplement": "A college replaced in-person library induction tours with a short online video. Completion rates were high, but first-year students still asked many basic questions at the help desk. Staff then added a five-minute live Q&A after the video during welcome week, after which repetitive queries fell noticeably.",
+                    "options": [
+                        "The video was useless and should be removed.",
+                        "Some students needed an interactive element to clarify information.",
+                        "Students prefer long lectures to videos.",
+                        "Help desk staff answered fewer questions before welcome week."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Adding live Q&A reduced repetitive queries, suggesting interactivity helped understanding.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "556cb0ea-59d5-4e1c-a335-622bdf0b7120",
+                    "prompt": "What is the main idea?",
+                    "supplement": "A college replaced in-person library induction tours with a short online video. Completion rates were high, but first-year students still asked many basic questions at the help desk. Staff then added a five-minute live Q&A after the video during welcome week, after which repetitive queries fell noticeably.",
+                    "options": [
+                        "Online resources cannot teach anything.",
+                        "Replacing tours with a video worked best when combined with a brief interactive follow-up.",
+                        "Welcome week causes all problems.",
+                        "Help desks should close during induction."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The passage contrasts the video alone vs video plus Q&A and the effect on queries.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d537fdae-f145-43a3-a542-8b9723a48a11",
+                    "prompt": "In context, 'repetitive' most nearly means:",
+                    "supplement": "A college replaced in-person library induction tours with a short online video. Completion rates were high, but first-year students still asked many basic questions at the help desk. Staff then added a five-minute live Q&A after the video during welcome week, after which repetitive queries fell noticeably.",
+                    "options": [
+                        "unrelated",
+                        "repeated",
+                        "confusing",
+                        "rare"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Repetitive queries are those asked again and again.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "65220349-edaa-4191-a8db-119e4fe29873",
+                    "prompt": "Which statement best captures the organisers' evaluation?",
+                    "supplement": "A non-profit organisation tested a 'pay what you can' ticket for a concert. Attendance increased, but revenue per attendee fell slightly. The organisers noted that the wider audience included people who later volunteered, and they judged the experiment successful because community engagement rose.",
+                    "options": [
+                        "They considered revenue the only measure of success.",
+                        "They valued increased engagement even though average revenue dropped.",
+                        "They believed attendance should be restricted.",
+                        "They concluded volunteering is unrelated to pricing."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "They judged it successful due to engagement and volunteering, despite lower revenue per attendee.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "df70d7f3-24c9-4374-b76e-fcc7481cbd70",
+                    "prompt": "What is the main idea?",
+                    "supplement": "A non-profit organisation tested a 'pay what you can' ticket for a concert. Attendance increased, but revenue per attendee fell slightly. The organisers noted that the wider audience included people who later volunteered, and they judged the experiment successful because community engagement rose.",
+                    "options": [
+                        "Flexible pricing increased attendance and engagement, with a trade-off in revenue per person.",
+                        "Concerts should always be free.",
+                        "Volunteers should be paid.",
+                        "Charities cannot run events."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "It describes the pricing experiment and its outcomes.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d0081dd0-f9cc-485f-9c0e-af313f74e6d0",
+                    "prompt": "'Engagement' most nearly means:",
+                    "supplement": "A non-profit organisation tested a 'pay what you can' ticket for a concert. Attendance increased, but revenue per attendee fell slightly. The organisers noted that the wider audience included people who later volunteered, and they judged the experiment successful because community engagement rose.",
+                    "options": [
+                        "participation",
+                        "advertising",
+                        "distance",
+                        "noise"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Community engagement refers to participation and involvement.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f308ee74-8f91-46ca-9169-856da59e85e5",
+                    "prompt": "Which conclusion is best supported?",
+                    "supplement": "A local café switched from paper loyalty cards to a phone-based app. Customers who used the app redeemed redepartments more often, but some older customers stopped collecting points because they did not own smartphones. The café kept a small supply of paper cards at the counter after receiving feedback.",
+                    "options": [
+                        "The app reduced redemptions overall.",
+                        "Changing to an app improved convenience for some customers but created access barriers for others.",
+                        "Older customers used the app more than younger customers.",
+                        "Paper cards are always more secure than apps."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The app boosted redepartment redemption for users but excluded some customers, leading to keeping paper cards.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e61f4f91-d087-4646-bab6-117009722a06",
+                    "prompt": "The passage suggests the café's response was to:",
+                    "supplement": "A local café switched from paper loyalty cards to a phone-based app. Customers who used the app redeemed redepartments more often, but some older customers stopped collecting points because they did not own smartphones. The café kept a small supply of paper cards at the counter after receiving feedback.",
+                    "options": [
+                        "Remove the app immediately.",
+                        "Offer both digital and paper options.",
+                        "Increase reward prices.",
+                        "Stop the loyalty scheme."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "They kept paper cards at the counter, implying a dual approach.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "detail"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b5f2d274-b49b-447e-b43c-2bd4b53407c2",
+                    "prompt": "'Redeemed' most nearly means:",
+                    "supplement": "A local café switched from paper loyalty cards to a phone-based app. Customers who used the app redeemed redepartments more often, but some older customers stopped collecting points because they did not own smartphones. The café kept a small supply of paper cards at the counter after receiving feedback.",
+                    "options": [
+                        "lost",
+                        "exchanged for a benefit",
+                        "recorded",
+                        "copied"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Redepartments are redeemed when exchanged for a benefit.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f35d17d9-ca2c-4d0b-be3c-472848f84ed6",
+                    "prompt": "Which inference is most supported?",
+                    "supplement": "A metropolitan council trialled 'school streets' where cars were restricted near the gates at drop-off time. Air quality sensors showed small improvements, but some parents complained the detours added ten minutes to their commute. The council later extended the scheme only to schools with nearby public transport.",
+                    "options": [
+                        "Air quality worsened during the trial.",
+                        "The council weighed benefits against inconvenience and targeted expansion where alternatives exist.",
+                        "Parents stopped driving entirely.",
+                        "Public transport caused the air quality improvements."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Extension only to schools with public transport suggests targeting based on feasible alternatives.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "edea1b1b-5589-43ad-8206-cdc78ca2e63b",
+                    "prompt": "What is the main idea?",
+                    "supplement": "A metropolitan council trialled 'school streets' where cars were restricted near the gates at drop-off time. Air quality sensors showed small improvements, but some parents complained the detours added ten minutes to their commute. The council later extended the scheme only to schools with nearby public transport.",
+                    "options": [
+                        "Car restrictions near schools aimed to improve air quality, but expansion depended on practicality for families.",
+                        "Detours are always unacceptable.",
+                        "Sensors are unreliable.",
+                        "Public transport is unnecessary."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "It summarises the trial, results, and selective expansion.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c37ca361-910e-4894-98ea-adcb52eddf36",
+                    "prompt": "In the passage, 'detours' most nearly means:",
+                    "supplement": "A metropolitan council trialled 'school streets' where cars were restricted near the gates at drop-off time. Air quality sensors showed small improvements, but some parents complained the detours added ten minutes to their commute. The council later extended the scheme only to schools with nearby public transport.",
+                    "options": [
+                        "shortcuts",
+                        "alternative routes",
+                        "arguments",
+                        "repairs"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Detours refer to taking alternative routes due to restrictions.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "DM",
+            "name": "Decision Making",
+            "timeLimitSeconds": 1860,
+            "questions": [
+                {
+                    "id": "5fdc9d34-bb4d-4c94-b7f5-4324763872ed",
+                    "prompt": "All members of Committee A have completed safeguarding training. Some people who have completed safeguarding training are volunteers. Which conclusion follows?",
+                    "supplement": "Statements:\n1) All members of Committee A have completed safeguarding training.\n2) Some people who have completed safeguarding training are volunteers.",
+                    "options": [
+                        "Some members of Committee A are volunteers.",
+                        "All volunteers are in Committee A.",
+                        "It is possible that some volunteers are in Committee A.",
+                        "No volunteers are in Committee A."
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "The volunteers could be within or outside Committee A; we can only say it is possible, not certain.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f2b2d036-24b6-4e76-a96f-f9b656590746",
+                    "prompt": "A box contains 5 black, 4 white and 1 red ball. One ball is selected at random. What is the probability it is NOT white?",
+                    "supplement": "",
+                    "options": [
+                        "1/2",
+                        "3/5",
+                        "2/5",
+                        "1/10"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Total 10 balls. Not white = black+red = 6, so probability = 6/10 = 3/5.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "29359aba-b992-4dc8-97b4-0e122ede88ec",
+                    "prompt": "If today is Thursday, what day will it be 100 days from today?",
+                    "supplement": "",
+                    "options": [
+                        "Saturday",
+                        "Sunday",
+                        "Monday",
+                        "Tuesday"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "100 ≡ 2 (mod 7) because 98 is divisible by 7. Thursday + 2 days = Saturday.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "403bdde6-c5d3-4b48-8368-7f1dcd793e22",
+                    "prompt": "Claim: 'Adding speed bumps reduces the number of road accidents on residential streets.' Which evidence most strengthens the claim?",
+                    "supplement": "",
+                    "options": [
+                        "Accidents fell on streets after speed bumps were installed compared with similar streets without bumps over the same period.",
+                        "Residents report they dislike noise from cars.",
+                        "The council launched a road safety poster campaign.",
+                        "Some accidents occur in bad weather."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "A controlled comparison linking the intervention to reduced accidents supports the claim.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "argument"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "40de65a6-42e5-47e0-b021-3332b5ee5a6e",
+                    "prompt": "A test for a condition has 90% sensitivity and 80% specifimetropolitan council. Prevalence is 10%. Approximately what percentage of people will test positive?",
+                    "supplement": "",
+                    "options": [
+                        "10%",
+                        "17%",
+                        "26%",
+                        "82%"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Out of 100: 10 cases → 9 true positives. 90 non-cases → 20% false positives = 18. Total positives = 27%, closest to 26%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "3a46bb8b-f01b-42ec-a641-8221d938e079",
+                    "prompt": "Three friends (J, K, L) each own a different pet (cat, dog, rabbit). J does not own the cat. K owns the dog. Who owns the cat?",
+                    "supplement": "",
+                    "options": [
+                        "J",
+                        "K",
+                        "L",
+                        "Cannot be determined"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "K has the dog, so J and L have cat/rabbit. J does not have the cat, so L owns the cat.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "8189a8d7-3916-4eb4-84e8-32a800437c6c",
+                    "prompt": "Some architects are cyclists. No cyclists are scuba divers. Which statement must be true?",
+                    "supplement": "",
+                    "options": [
+                        "Some architects are not scuba divers.",
+                        "All architects are scuba divers.",
+                        "Some scuba divers are cyclists.",
+                        "No architects are cyclists."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Architects who are cyclists cannot be scuba divers, so at least some architects are not scuba divers.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "89478ece-28c1-40e5-a01d-f3e0ad4b24c5",
+                    "prompt": "All laptops are devices. Some devices have touchscreens. What conclusion is valid?",
+                    "supplement": "",
+                    "options": [
+                        "All laptops have touchscreens.",
+                        "Some laptops have touchscreens.",
+                        "Some touchscreen devices are laptops.",
+                        "No conclusion about laptops having touchscreens follows."
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "We do not know whether laptops are included in the touchscreen subset.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "34db7df6-2f37-4cfb-9cf6-676bca5f87d0",
+                    "prompt": "A jar contains 7 blue and 5 green counters. Two counters are drawn without replacement. What is the probability both are green?",
+                    "supplement": "",
+                    "options": [
+                        "5/33",
+                        "5/22",
+                        "10/33",
+                        "25/144"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "P(both green) = (5/12)×(4/11)=20/132=5/33.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7a2c366d-c447-4f67-a62e-07485d75a7c8",
+                    "prompt": "Which statement is logically equivalent to 'If the password is correct, access is granted'?",
+                    "supplement": "",
+                    "options": [
+                        "If access is granted, the password is correct.",
+                        "If access is not granted, the password was not correct.",
+                        "If the password is not correct, access is granted.",
+                        "Access is granted only if the password is correct."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The contrapositive of 'If P then Q' is 'If not Q then not P'.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ced06527-ea09-4410-9d8d-3d11f1b01585",
+                    "prompt": "Claim: 'A new scheduling app reduces missed appointments.' Which information most weakens the claim?",
+                    "supplement": "",
+                    "options": [
+                        "At the same time, the clinic introduced reminder phone calls for all patients.",
+                        "Some patients prefer morning appointments.",
+                        "Appointments are sometimes delayed.",
+                        "Clinics are busy in winter."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "A confounder (reminder calls) could explain fewer missed appointments rather than the app itself.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "argument"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "2afd3478-206a-476f-97a1-23edbc2e64e5",
+                    "prompt": "A raffle ticket has a 0.02 chance of winning £100 and otherwise wins £0. What is the expected value?",
+                    "supplement": "",
+                    "options": [
+                        "£0.50",
+                        "£1.00",
+                        "£2.00",
+                        "£5.00"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Expected value = 100×0.02 = £2.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d8e355f8-25cf-4910-a566-01d226895762",
+                    "prompt": "Five chairs (A, B, C, D, E) are in a line. A is left of B. C is immediately right of D. E is not at either end. Which arrangement is possible?",
+                    "supplement": "",
+                    "options": [
+                        "B A D C E",
+                        "A E D C B",
+                        "D C B E A",
+                        "E A C D B"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Option B satisfies: A left of B; D C adjacent with C right of D; E not at an end.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "452c3abd-23fd-45cf-bf57-5f682df27991",
+                    "prompt": "Rule: 'You can submit the form only if you include a signature.' Which must be true?",
+                    "supplement": "",
+                    "options": [
+                        "Including a signature guarantees acceptance.",
+                        "If you submit the form, it includes a signature.",
+                        "If you do not submit the form, it lacks a signature.",
+                        "Only staff need signatures."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "'Only if' makes signature a necessary condition for submission.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "46f68afb-abdc-4d53-a5bf-fdaebe416510",
+                    "prompt": "A fair coin is flipped 5 times. What is the probability of getting exactly 2 heads?",
+                    "supplement": "",
+                    "options": [
+                        "5/32",
+                        "10/32",
+                        "15/32",
+                        "20/32"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Exactly 2 heads: C(5,2)/2^5 = 10/32.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7178fef4-91a8-4f43-ad02-0f6d66fa2d63",
+                    "prompt": "Argument: 'This product is natural, therefore it is safe.' What is the main flaw?",
+                    "supplement": "",
+                    "options": [
+                        "It assumes 'natural' always means safe.",
+                        "It relies on too much scientific testing.",
+                        "It compares safety with cost.",
+                        "It proves effectiveness."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Natural substances can still be harmful; 'natural' does not guarantee safety.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "argument"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "5ce0cb6a-81ef-4b91-ade4-3ec1fd829bd4",
+                    "prompt": "All roses are flowers. Some flowers are edible. Which statement is definitely true?",
+                    "supplement": "",
+                    "options": [
+                        "Some roses are edible.",
+                        "No roses are edible.",
+                        "All roses are flowers.",
+                        "Some edible things are roses."
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "The first premise guarantees roses are flowers.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fa627152-698b-4687-9547-a4ea1d189660",
+                    "prompt": "Two fair six-sided dice are rolled. What is the probability the sum is 10?",
+                    "supplement": "",
+                    "options": [
+                        "1/9",
+                        "1/12",
+                        "1/6",
+                        "1/18"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Sum 10 outcomes: (4,6),(5,5),(6,4) = 3/36 = 1/12.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "a17f4801-545c-433b-91d7-c1f75b7af526",
+                    "prompt": "With sensitivity 90%, specifimetropolitan council 80%, prevalence 10%, if a person tests positive, what is the approximate probability they truly have the condition?",
+                    "supplement": "",
+                    "options": [
+                        "About 20%",
+                        "About 33%",
+                        "About 50%",
+                        "About 80%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "From 100: true positives 9; false positives 18. PPV = 9/(9+18)=1/3 ≈ 33%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "10ee41a5-4332-4216-ba57-66d8ca943299",
+                    "prompt": "Rule: If a shipment is international, delivery takes more than 7 days. Delivery took 5 days. What follows?",
+                    "supplement": "",
+                    "options": [
+                        "The shipment was international.",
+                        "The shipment was not international.",
+                        "International shipments always take 5 days.",
+                        "The shipment must be by air."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Contrapositive: If delivery is not more than 7 days, then it was not international.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "QR",
+            "name": "Quantitative Reasoning",
+            "timeLimitSeconds": 1500,
+            "questions": [
+                {
+                    "id": "14ea8600-7cd3-4893-985c-21cf95828d52",
+                    "prompt": "A jacket costs £120 and is discounted by 15%. What is the sale price?",
+                    "supplement": "",
+                    "options": [
+                        "£96",
+                        "£102",
+                        "£108",
+                        "£114"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "15% of 120 is 18, so sale price is 120 − 18 = £102.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "cd080cf6-9c7c-472c-8edf-1fb3c3f8e704",
+                    "prompt": "A drink is made with juice:water in the ratio 2:5. If there are 700 ml of water, how much juice is needed?",
+                    "supplement": "",
+                    "options": [
+                        "200 ml",
+                        "280 ml",
+                        "350 ml",
+                        "500 ml"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Water is 5 parts = 700 ml, so 1 part = 140 ml. Juice is 2 parts = 280 ml.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9d98fdcc-05a3-4819-8477-3e29b936fa55",
+                    "prompt": "Solve for x: 3x − 7 = 26",
+                    "supplement": "",
+                    "options": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "3x = 33, so x = 11.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "57f004e5-3acc-456b-b687-11605339246e",
+                    "prompt": "A train travels 180 km in 2.5 hours. What is its average speed?",
+                    "supplement": "",
+                    "options": [
+                        "60 km/h",
+                        "68 km/h",
+                        "72 km/h",
+                        "80 km/h"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Speed = 180 ÷ 2.5 = 72 km/h.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7cfec8e0-064e-4969-b55f-3e326c09f66d",
+                    "prompt": "Table: Steps walked\nMon 8,400\nTue 7,900\nWed 8,250\nThu 9,100\nFri 8,350\nHow many steps were walked from Monday to Wednesday inclusive?",
+                    "supplement": "",
+                    "options": [
+                        "24,450",
+                        "24,550",
+                        "24,650",
+                        "24,750"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "8,400 + 7,900 + 8,250 = 24,550.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "tables"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "12cbeb6d-3ac4-4626-b1c1-996768d029cc",
+                    "prompt": "A laptop costs £750 before VAT. VAT is 20%. What is the total cost including VAT?",
+                    "supplement": "",
+                    "options": [
+                        "£825",
+                        "£870",
+                        "£900",
+                        "£950"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "20% of 750 is 150, so total = 900.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "979c7784-6af7-42d9-86db-b4feec5f79f0",
+                    "prompt": "You exchange £480 into dollars at £1 = $1.25, then pay a $12 fee. How many dollars do you receive?",
+                    "supplement": "",
+                    "options": [
+                        "$576",
+                        "$588",
+                        "$600",
+                        "$612"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "£480 → 480×1.25 = $600; minus $12 = $588.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "72581bc6-ccd9-43f5-a3ee-9fefa00c1cfd",
+                    "prompt": "A reservoir is 40% full. After removing 18,000 litres, it is 25% full. What is the reservoir’s capametropolitan council?",
+                    "supplement": "",
+                    "options": [
+                        "90,000 L",
+                        "100,000 L",
+                        "120,000 L",
+                        "150,000 L"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "The level falls by 15% which equals 18,000 L, so capametropolitan council = 18,000 ÷ 0.15 = 120,000 L.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b2a1f609-e65c-462b-a0e1-31ea2b6a2295",
+                    "prompt": "A car uses 7.2 litres per 100 km. How much fuel is used over 450 km?",
+                    "supplement": "",
+                    "options": [
+                        "30.4 L",
+                        "31.5 L",
+                        "32.4 L",
+                        "33.6 L"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Fuel = 7.2/100 × 450 = 32.4 L.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9de5998c-dde0-476a-beb5-1aef2adc142f",
+                    "prompt": "Red:Blue:Yellow marbles are in the ratio 3:2:5. There are 80 marbles in total. How many are yellow?",
+                    "supplement": "",
+                    "options": [
+                        "32",
+                        "36",
+                        "40",
+                        "44"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Total parts = 10, so 1 part = 8. Yellow = 5 parts = 40.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d99ec771-d0fc-4854-bcd2-7cbe928ccdb6",
+                    "prompt": "A worker earns £12.50 per hour and gets time-and-a-half on Saturdays. They work 7 regular hours and 4 Saturday hours. What is their total pay?",
+                    "supplement": "",
+                    "options": [
+                        "£143.75",
+                        "£150.00",
+                        "£156.25",
+                        "£162.50"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "Regular: 7×12.50=87.50. Saturday rate=18.75; Saturday pay=4×18.75=75. Total=162.50.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "74714a1e-d712-4fc3-8490-f3a892493280",
+                    "prompt": "Table: Calls answered\nMon 42\nTue 39\nWed 45\nThu 36\nFri 48\nWhat is the average number of calls per day?",
+                    "supplement": "",
+                    "options": [
+                        "40",
+                        "41",
+                        "42",
+                        "43"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Total = 210; average = 210 ÷ 5 = 42.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "tables"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "89748ea3-953a-4e60-825c-398d867e4708",
+                    "prompt": "A shop buys a blender for £36 and sells it for £45. What is the profit percentage on cost?",
+                    "supplement": "",
+                    "options": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Profit = 9. Profit% = 9/36 = 0.25 = 25%.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e99690a6-37bd-44cb-ae74-e23eb3cf0a9c",
+                    "prompt": "Solve: 5(x + 2) = 65",
+                    "supplement": "",
+                    "options": [
+                        "9",
+                        "11",
+                        "13",
+                        "15"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "x+2=13, so x=11.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "cf103395-5c36-4b0d-9d21-6fa28d40ccf4",
+                    "prompt": "A map scale is 1:25,000. A footpath measures 4.8 cm on the map. What is the real distance?",
+                    "supplement": "",
+                    "options": [
+                        "0.96 km",
+                        "1.20 km",
+                        "1.44 km",
+                        "1.80 km"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "4.8×25,000=120,000 cm = 1,200 m = 1.2 km.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "80e96854-7ab9-4579-81b3-8426ecefc577",
+                    "prompt": "Monthly sales increase from £64,000 to £80,000. What is the percentage increase?",
+                    "supplement": "",
+                    "options": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Increase = 16,000; 16,000/64,000 = 25%.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "0be8b614-874c-4497-a37e-b72465404684",
+                    "prompt": "You buy 6 cinema tickets and 4 snacks for £68. Tickets cost £8 each. What is the cost of one snack?",
+                    "supplement": "",
+                    "options": [
+                        "£4",
+                        "£5",
+                        "£6",
+                        "£7"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Tickets cost 48; remaining 20 for 4 snacks → £5 each.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "6a1d0b0c-b370-4581-892f-37fa7c662a17",
+                    "prompt": "A subscription is £18 per month. A one-off setup fee of £24 is added to the first month only. What is the total paid over 9 months?",
+                    "supplement": "",
+                    "options": [
+                        "£162",
+                        "£174",
+                        "£186",
+                        "£198"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "9×18 = 162; plus 24 = 186.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e6d90c3b-daee-40a3-9a46-daa9d670d8e3",
+                    "prompt": "Two numbers have a sum of 74 and a difference of 18. What is the larger number?",
+                    "supplement": "",
+                    "options": [
+                        "28",
+                        "37",
+                        "46",
+                        "56"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "2L=92 so L=46.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9248d644-fd68-4826-a9a9-d86c61bb4134",
+                    "prompt": "An investment rises by 12% in year 1 and then falls by 12% in year 2. Starting from £3,000, what is the final value?",
+                    "supplement": "",
+                    "options": [
+                        "£2,956.80",
+                        "£3,000.00",
+                        "£3,043.20",
+                        "£3,360.00"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "3000×1.12=3360; 3360×0.88=2956.8.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "SJ",
+            "name": "Situational Judgement",
+            "timeLimitSeconds": 1560,
+            "questions": [
+                {
+                    "id": "afaaba22-cae4-4494-9363-0c3340e55abd",
+                    "prompt": "A service user’s relative becomes upset at the reception desk and raises their voice. What is the best response?",
+                    "supplement": "",
+                    "options": [
+                        "Tell them to be quiet or you will call security immediately.",
+                        "Stay calm, acknowledge their feelings, and move the conversation to a private area if possible while seeking help if needed.",
+                        "Ignore them until they stop.",
+                        "Argue back to correct their tone."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "De-escalation involves calm listening, acknowledging emotions, and maintaining privacy and safety.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c1df648c-e832-4323-a2cb-b6d1f5154d58",
+                    "prompt": "You overhear a student discussing a service user’s unusual diagnosis in a lift, where members of the public are present. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Wait until later and mention it casually.",
+                        "Immediately remind them to stop and explain this breaches confidentiality; escalate appropriately if it continues.",
+                        "Tell the public the details are incorrect.",
+                        "Take a photo of the student and report it online."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Confidentiality breaches should be addressed promptly and proportionately, with escalation if needed.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e8fcdab9-8b8b-4885-8d9e-a61814874b2e",
+                    "prompt": "A senior asks you to perform a procedure you have not been trained to do, and they appear rushed. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Do it anyway to avoid delaying care.",
+                        "Explain you are not trained and ask for supervision or for another qualified person to do it.",
+                        "Refuse and leave without telling anyone.",
+                        "Watch a quick video tutorial and proceed."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "You must work within competence and seek supervision to protect service user safety.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ae217429-f7b6-4620-a545-cb6b346c8d23",
+                    "prompt": "You notice you have documented the wrong medication dose in the notes. The medication has not yet been administered. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Delete the entry and pretend it never happened.",
+                        "Correct the record transparently according to policy and inform the supervising clinician to prevent an error.",
+                        "Leave it because the medication has not been given.",
+                        "Ask a colleague to change it using their login."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Accurate, auditable records and prompt escalation prevent harm.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7850115a-715a-4b1b-8d63-1a4119ea75bb",
+                    "prompt": "During a team handover, a team member repeatedly interrupts others and key details are being missed. What is the best action?",
+                    "supplement": "",
+                    "options": [
+                        "Interrupt them back more forcefully.",
+                        "Politely suggest one person speaks at a time and, if necessary, ask the handover lead to manage the discussion.",
+                        "Say nothing to avoid tension.",
+                        "Leave and read the notes later."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "A respectful intervention supports teamwork and service user safety.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "teamwork"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7f38926d-5c33-4226-8d16-12865530c9e6",
+                    "prompt": "A service user asks you to interpret their scan result. You are not qualified to do this. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Give your best guess to reassure them.",
+                        "Explain your role and arrange for the appropriate clinician to discuss the result.",
+                        "Tell them to search online.",
+                        "Avoid answering and walk away."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Be honest about limits and ensure the right professional provides information.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e0ca5421-77f0-4c48-81ae-7afa9048dbac",
+                    "prompt": "You are behind schedule and consider skipping an identity check before taking blood to save time. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Skip it; you know the patient.",
+                        "Complete the identity check properly and inform the team about the delay.",
+                        "Ask someone else to tick the box for you.",
+                        "Do the check afterwards."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Safety checks must not be bypassed; communicate delays instead.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "26a3a694-4146-4e2e-8556-2a17237ee89a",
+                    "prompt": "A team member posts a selfie in uniform outside the regional clinic with the department name visible. No service users are in the photo. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Like the post to support them.",
+                        "Privately advise them to remove it and remind them of policy; escalate if they refuse.",
+                        "Comment publicly criticising them.",
+                        "Ignore it because no patients are shown."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Indirect identifiers can still breach policy; address privately first and escalate if needed.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "4b267c38-3c82-4c38-895a-fbfa7ecb0904",
+                    "prompt": "A service user nods while you explain discharge instructions, but you suspect they do not understand. What is the best action?",
+                    "supplement": "",
+                    "options": [
+                        "Assume they understand because they nodded.",
+                        "Use teach-back: ask them to explain the plan in their own words, then clarify.",
+                        "Hand them a leaflet and end the conversation.",
+                        "Ask them to call later if confused."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Teach-back checks comprehension and reduces errors.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "27a681a7-4b07-4da7-b444-a5afa708e384",
+                    "prompt": "You see a spill on the floor in a corridor with no warning sign. What should you do first?",
+                    "supplement": "",
+                    "options": [
+                        "Walk past and report it at the end of your shift.",
+                        "Make the area safe immediately (e.g., warn others, place a sign) and arrange cleaning per policy.",
+                        "Stand and watch to see if anyone slips.",
+                        "Take a photo and post it in a staff chat."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Immediate hazards should be controlled promptly to prevent harm.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "a9ba6ea7-c251-48bf-8b9f-44b532a1e600",
+                    "prompt": "A meeting is dominated by one professional and other voices are not being heard. What is the best approach?",
+                    "supplement": "",
+                    "options": [
+                        "Stay silent to avoid upsetting anyone.",
+                        "Suggest to the chair a way to invite contributions from everyone (appropriately and respectfully).",
+                        "Interrupt aggressively to stop the speaker.",
+                        "Publicly criticise quieter members for not speaking."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Encouraging inclusive discussion improves decisions and team functioning.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "teamwork"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "549632a4-1389-43a2-88a5-f477c3afff5b",
+                    "prompt": "A service user tells you they feel unsafe at home and implies possible abuse. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Promise to keep it secret.",
+                        "Take it seriously, follow safeguarding procedures, and seek help from an appropriate supervisor/clinician.",
+                        "Tell them it is a family matter.",
+                        "Wait until the end of the week to raise it."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Safeguarding concerns require prompt action through established pathways; confidentiality has limits for safety.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "2a2eb417-3fc3-446b-9191-625ada01aa5e",
+                    "prompt": "A service user offers you an expensive gift after treatment. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Accept it quietly as a thank-you.",
+                        "Politely decline or declare it according to local policy and discuss with a supervisor.",
+                        "Sell it and donate the money without telling anyone.",
+                        "Accept it only if they insist."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Expensive gifts can create conflicts; transparency and policy compliance are required.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c963c79b-7fcc-4a33-a23a-08a3965481b7",
+                    "prompt": "You make a near-miss mistake that did not reach the service user. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Hide it to avoid blame.",
+                        "Report it using the appropriate system and reflect on how to prevent recurrence.",
+                        "Only mention it if someone asks.",
+                        "Blame another team member."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Reporting near-misses supports learning and improves safety.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "86c381c0-1b2c-4c3d-b688-2fffb3cea874",
+                    "prompt": "A relative asks for confidential information about a service user who has capametropolitan council. The service user is not present. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Share information because the relative is worried.",
+                        "Explain you need the patient’s consent before sharing and check with the patient.",
+                        "Share only 'small' details.",
+                        "Refuse to speak even if the patient later consents."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Consent (or another legal basis) is required to share confidential information.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "517ccd0e-bfa6-4d68-982c-46174a34aee4",
+                    "prompt": "You suspect a team member has calculated an incorrect dose and the medication is due soon. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Assume it is correct to avoid conflict.",
+                        "Double-check promptly and raise the concern with a supervisor before administration.",
+                        "Change it yourself without telling anyone.",
+                        "Wait until after administration to mention it."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Potential dosing errors must be addressed before administration to prevent harm.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "830a311e-a981-4cba-80be-697a27aeeb25",
+                    "prompt": "A team member appears overwhelmed and is making small errors during a busy shift. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Ignore them because you are busy.",
+                        "Check in briefly, offer practical help, and encourage them to speak to a supervisor or support service if needed.",
+                        "Tell everyone to avoid working with them.",
+                        "Tell them to 'toughen up'."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "A supportive, discreet approach protects safety and wellbeing and allows appropriate escalation.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "teamwork"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "81ea22e5-0f27-43de-bfb4-c8e57ff8e1cd",
+                    "prompt": "You disagree with a proposed plan during a department round. What is the best approach?",
+                    "supplement": "",
+                    "options": [
+                        "Stay silent because you are junior.",
+                        "Raise concerns respectfully with reasons and focus on patient benefit.",
+                        "Argue loudly to be heard.",
+                        "Discuss the disagreement with the patient before the team decides."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Respectful challenge improves decision-making and professionalism.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9267ab8d-8dbd-4c37-a18d-9021ca94a4ab",
+                    "prompt": "You overhear staff making derogatory jokes about a service user. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Join in so you fit in.",
+                        "Ignore it; it is only humour.",
+                        "Challenge it professionally and escalate through the correct route if it continues.",
+                        "Tell the patient immediately exactly what was said."
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Unprofessional behaviour should be addressed to protect dignity and culture; escalation may be needed.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b06ee985-a158-491e-9e2d-a777b32451b4",
+                    "prompt": "A team member asks you to sign a checklist step you did not witness. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Sign it to help them.",
+                        "Refuse and explain you cannot confirm something you did not see; encourage completing the check properly.",
+                        "Sign it and make a private note.",
+                        "Ignore the request without replying."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Signing off unseen work undermines safety and integrity; proper checking is required.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        }
+    ]
+}

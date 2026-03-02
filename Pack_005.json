@@ -1,7 +1,7 @@
 {
     "packVersion": 1,
-    "title": "UCAT Practice Pack (Full Test) - Fresh Set 003",
-    "createdAt": "2026-03-02T13:00:00Z",
+    "title": "UCAT Practice Pack (Full Test) - Fresh Set 005",
+    "createdAt": "2026-03-02T15:00:00Z",
     "sections": [
         {
             "id": "VR",
@@ -9,9 +9,9 @@
             "timeLimitSeconds": 1260,
             "questions": [
                 {
-                    "id": "a82dc9b3-986d-4cfc-945c-c45e8240cf71",
+                    "id": "e33072f1-5e10-4a33-8d9e-e011e676702b",
                     "prompt": "What is the most supported inference?",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "Occasional riders were the main source of phone-call complaints.",
                         "The quiet carriage policy improved the experience for some riders but created uncertainty for others.",
@@ -28,9 +28,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d217b7e1-8a53-4590-b96b-777a1d7e46ab",
+                    "id": "9f1e2af8-f402-42c6-a073-33b5e53140c8",
                     "prompt": "Which statement best captures the main idea?",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "Quiet carriages were unpopular with all passengers.",
                         "A behavioural rule change on trains produced benefits while also causing some passenger concern.",
@@ -47,9 +47,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8e704616-6c52-47f4-9724-8709a9457605",
+                    "id": "536b74c1-8644-44a4-952d-796222d230d2",
                     "prompt": "In the passage, 'trial' most nearly means:",
-                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about device calls during the trial month.",
+                    "supplement": "A commuter rail operator introduced 'quiet carriages' on peak trains. Surveys found regular riders rated journeys as less stressful, but some occasional riders reported feeling anxious about accidentally breaking the rules. Staff also recorded fewer complaints about phone calls during the trial month.",
                     "options": [
                         "a permanent ban",
                         "a test period",
@@ -66,9 +66,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e9088dd7-2714-4984-ac6f-f586eae36802",
+                    "id": "01785687-711e-45db-ac12-9b29555bf573",
                     "prompt": "Which option is most supported by the passage?",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A grocery chain switched to smaller shopping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "Smaller baskets reduced overall revenue.",
                         "Using trolleys made customers buy more items on average, but store layout affected satisfaction.",
@@ -85,9 +85,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "bf0332cc-ff45-4254-940f-da33df34e5da",
+                    "id": "57ecc0a6-31ca-4249-bb08-73b15d5c9e44",
                     "prompt": "What is the author's overall tone?",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A grocery chain switched to smaller shopping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "Enthusiastic and promotional",
                         "Balanced, weighing outcomes",
@@ -104,9 +104,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9dc9ff7f-7b0a-491b-9f69-c40b1695f4fe",
+                    "id": "f10d4ade-ab88-4a7d-8233-40a496053c7d",
                     "prompt": "'Mitigated' most nearly means:",
-                    "supplement": "A grocery chain switched to smaller retailerping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
+                    "supplement": "A grocery chain switched to smaller shopping baskets to encourage customers to take trolleys instead. The chain reported that average basket value increased slightly, but customer feedback mentioned 'awkward' and 'crowded aisles' more frequently. Managers noted that stores with wider aisles saw fewer complaints.",
                     "options": [
                         "made worse",
                         "reduced",
@@ -123,9 +123,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "52ec811b-c26e-437d-b43a-c1992244bda0",
+                    "id": "719a3944-3323-4d5a-bbc7-2e587a990dd1",
                     "prompt": "Which inference is best supported?",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A city introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "Weekend museum attendance fell sharply.",
                         "Digital access barriers affected registration for some groups.",
@@ -142,9 +142,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "97ce44e8-4f7b-4e67-bb28-798605fa1387",
+                    "id": "1c103725-a783-4511-ad81-13d16848b6a6",
                     "prompt": "Which statement best reflects the main idea?",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A city introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "A discount card changed who registered and slightly shifted attendance patterns.",
                         "Museums should close on weekends.",
@@ -161,9 +161,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "32e0e991-4860-42b0-adc3-34ab920c9ea1",
+                    "id": "31d0242e-99b8-42f7-bd63-5c5afae0b042",
                     "prompt": "In the passage, 'uptake' most nearly means:",
-                    "supplement": "A local authority introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
+                    "supplement": "A city introduced a digital residents' card that provided discounts at leisure centres and museums. Uptake was highest among families with children, while older residents were less likely to register unless assisted at community hubs. After six months, the council observed increased weekday museum attendance but little change at weekends.",
                     "options": [
                         "adoption",
                         "criticism",
@@ -180,9 +180,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "21198d0c-ed59-4867-8e4a-eb00985031a2",
+                    "id": "fca84218-f002-4825-acc4-bc8e9a79101d",
                     "prompt": "What is a key trade-off described?",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but patients receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more patients at once.",
                     "options": [
                         "Phone calls are cheaper but less supportive.",
                         "Text messages may be less personal, but are cheaper and scalable.",
@@ -199,9 +199,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "673db420-0745-4d29-ab9a-5ee91f3b9e45",
+                    "id": "0012d4fd-4a61-4e51-842c-1b330438285a",
                     "prompt": "Which statement is most supported by the passage?",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but patients receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more patients at once.",
                     "options": [
                         "Only phone calls improved adherence.",
                         "Both methods improved adherence, but they differ in cost and perceived support.",
@@ -218,9 +218,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "60c748f6-413a-4a3f-b7cc-5eebb4dfb3aa",
+                    "id": "85abb67f-871c-49e4-8aa0-a12e52f53b85",
                     "prompt": "'Scalable' most nearly means:",
-                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly device calls. Adherence improved in both groups, but service users receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more service users at once.",
+                    "supplement": "A research team compared two reminder methods for medication: automated text messages and weekly phone calls. Adherence improved in both groups, but patients receiving calls reported feeling more supported. The text-message system, however, cost less to run and could reach far more patients at once.",
                     "options": [
                         "easy to expand to many users",
                         "illegal",
@@ -237,9 +237,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "b7fee1c6-9bc1-4c8f-99a1-2c85b1432706",
+                    "id": "d66721f6-3b5e-46a0-a972-e705a62ec011",
                     "prompt": "Which conclusion is best supported?",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small software company moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The company then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
                     "options": [
                         "Live chat eliminated the need for investigations.",
                         "Live chat improved speed, and the company added a process to protect time for deeper work.",
@@ -256,9 +256,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e2246f70-9f43-44fc-911a-5b706198a530",
+                    "id": "dd04402b-3f08-4286-8afd-cd3f9b292f54",
                     "prompt": "What is the author's tone?",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small software company moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The company then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
                     "options": [
                         "Neutral and explanatory",
                         "Mocking",
@@ -275,9 +275,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "2dd8f16c-6c32-4269-9e41-dc33547038ee",
+                    "id": "4b6419e7-2f61-4e25-ac5e-de045ed595e4",
                     "prompt": "In context, 'interruptions' most nearly refers to:",
-                    "supplement": "A small software organisation moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The organisation then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
+                    "supplement": "A small software company moved its customer support from email to a live-chat system. Response times fell and satisfaction scores rose, but staff reported more interruptions and found it harder to complete complex investigations. The company then introduced 'offline blocks' where agents could close chats for 30 minutes to work uninterrupted.",
                     "options": [
                         "breaks for lunch",
                         "frequent incoming chat messages",
@@ -294,9 +294,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1bcf1c37-fe39-48bc-a05e-d2086d460a6a",
+                    "id": "fdac7d0e-b9b2-4ae8-bb49-389687a4e8aa",
                     "prompt": "Which inference is most supported?",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community sports club changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "Monthly payments reduced membership numbers.",
                         "The new model increased accessibility but required systems to manage payment administration.",
@@ -313,9 +313,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "0d70f583-f7a1-48bd-9aa2-52313cfff1cf",
+                    "id": "658a7c12-0b89-45f0-8525-bd97b8b5dc68",
                     "prompt": "What is the main idea?",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community sports club changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "Direct debits are always unreliable.",
                         "Changing payment structure brought growth but also administrative challenges addressed with automation.",
@@ -332,9 +332,9 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d03ec0bf-9815-454e-8b8d-5be43a993742",
+                    "id": "9cdc9667-3a24-4329-9301-acaa4ef980ec",
                     "prompt": "'Self-service' most nearly means:",
-                    "supplement": "A community sports association changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the association saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the association introduced automated reminders and a self-service portal to update details.",
+                    "supplement": "A community sports club changed its membership model from annual fees to monthly direct debit. More people joined mid-season, but the club saw a rise in late payments when bank details changed. Volunteers spent extra time chasing missed payments, so the club introduced automated reminders and a self-service portal to update details.",
                     "options": [
                         "run by volunteers only",
                         "used by members independently",
@@ -358,7 +358,7 @@
             "timeLimitSeconds": 1860,
             "questions": [
                 {
-                    "id": "b70eb277-d926-4143-81d6-f27fec62ce0e",
+                    "id": "800f6f3d-5621-400a-b0b6-1f075868ade7",
                     "prompt": "All cyclists in Group X wear helmets. Some helmet-wearers use e-bikes. Which conclusion follows?",
                     "supplement": "Statements:\n1) All cyclists in Group X wear helmets.\n2) Some helmet-wearers use e-bikes.",
                     "options": [
@@ -377,7 +377,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9316a9d3-e4fe-473e-a4b3-f8823d1ab983",
+                    "id": "7eed7553-2003-4e12-9f42-714384798275",
                     "prompt": "A bag contains 4 red, 3 blue and 3 yellow tokens. One token is chosen at random. What is the probability it is blue or yellow?",
                     "supplement": "",
                     "options": [
@@ -396,7 +396,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "0d34508e-8cf4-4ebe-a8b2-f3424eea49f4",
+                    "id": "58d2e19e-e101-4d07-bb6e-5b429bfebd54",
                     "prompt": "If today is Monday, what day will it be 45 days from today?",
                     "supplement": "",
                     "options": [
@@ -415,7 +415,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "af5d9cda-428f-463d-a794-f78d119b67d1",
+                    "id": "e89d7718-3d23-4e6b-82c8-c841b7397f24",
                     "prompt": "Claim: 'Putting calorie information on menus reduces average calories purchased.' Which evidence most strengthens the claim?",
                     "supplement": "",
                     "options": [
@@ -434,8 +434,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3ddf071b-8e27-4914-b400-24ba6f3bbc6f",
-                    "prompt": "A diagnostic test has 92% sensitivity and 85% specifilocal authority. In a population where 20% have the condition, what is the approximate chance a randomly selected person tests positive?",
+                    "id": "ace2d15a-11de-41da-ac31-3033498a27a8",
+                    "prompt": "A diagnostic test has 92% sensitivity and 85% specificity. In a population where 20% have the condition, what is the approximate chance a randomly selected person tests positive?",
                     "supplement": "",
                     "options": [
                         "28%",
@@ -453,8 +453,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cbac68a3-bbf1-451b-84f9-d88b644220c7",
-                    "prompt": "Four team members (A, B, C, D) each work in a different department (HR, IT, Finance, Marketing). A is not in HR. B is in IT. C is not in Finance. D is in HR. Who is in Finance?",
+                    "id": "c2d1a677-96a8-4d93-9f9e-51ff17cd0535",
+                    "prompt": "Four colleagues (A, B, C, D) each work in a different department (HR, IT, Finance, Marketing). A is not in HR. B is in IT. C is not in Finance. D is in HR. Who is in Finance?",
                     "supplement": "",
                     "options": [
                         "A",
@@ -472,7 +472,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d666478c-1cfd-4ed1-b6bd-aeee489ece0c",
+                    "id": "5555d60d-69bf-4f2d-8ea0-643a89248edc",
                     "prompt": "Some pilots are engineers. No engineers are chefs. Which statement must be true?",
                     "supplement": "",
                     "options": [
@@ -491,8 +491,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "4ac44f38-2350-4f9f-8171-0569795a9a5b",
-                    "prompt": "All smartdevices are electronic devices. Some electronic devices are waterproof. What conclusion is valid?",
+                    "id": "a2e9a4f7-c37d-4686-a83c-87a9afe07483",
+                    "prompt": "All smartphones are electronic devices. Some electronic devices are waterproof. What conclusion is valid?",
                     "supplement": "",
                     "options": [
                         "All smartphones are waterproof.",
@@ -510,7 +510,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5c09d210-c6fb-4baf-a26d-2c641925bcde",
+                    "id": "d90f88c3-a75c-4585-b9ec-0f4aba1e6c9e",
                     "prompt": "A jar contains 6 green and 4 orange counters. Two counters are drawn without replacement. What is the probability both are orange?",
                     "supplement": "",
                     "options": [
@@ -529,7 +529,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1472036b-0721-4dab-9257-d7ef92be774f",
+                    "id": "df1cac5b-1204-408b-a04b-81a4b78408b5",
                     "prompt": "Which statement is logically equivalent to 'If the alarm is set, the door locks'?",
                     "supplement": "",
                     "options": [
@@ -548,7 +548,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7af94fa5-58dd-4423-92ec-afe8aa6bbeb4",
+                    "id": "9545a5dd-2a1d-4ced-96af-0a405ae31d35",
                     "prompt": "Claim: 'Remote working increases employee productivity.' Which information most weakens the claim?",
                     "supplement": "",
                     "options": [
@@ -567,7 +567,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c47d987e-a49c-40c8-887d-799e4bcf48ad",
+                    "id": "7f8312ba-65ab-4591-aa71-26988e962e60",
                     "prompt": "A lottery ticket has a 0.05 chance of winning £40 and otherwise wins £0. What is the expected value of one ticket?",
                     "supplement": "",
                     "options": [
@@ -586,7 +586,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "a978350d-c26e-4566-a3db-d047def8e5b6",
+                    "id": "222fa37b-1ffb-49d7-9493-89f259d18451",
                     "prompt": "Five boxes (P, Q, R, S, T) are in a row. P is left of Q. R is immediately right of S. T is not at either end. Which arrangement is possible?",
                     "supplement": "",
                     "options": [
@@ -605,7 +605,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "998e9b64-8470-45de-8829-c1a9e4f45d43",
+                    "id": "1ac2623f-4bd9-4a8d-a2f8-77eedd047074",
                     "prompt": "Statement: 'You may access the database only if you have completed training.' Which must be true?",
                     "supplement": "",
                     "options": [
@@ -624,7 +624,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c87242ca-b233-43c0-af35-f6fe4eb0bc1d",
+                    "id": "60453b0d-c6e2-4ee6-a4a5-85620f75afd0",
                     "prompt": "A fair coin is flipped 4 times. What is the probability of getting exactly 3 heads?",
                     "supplement": "",
                     "options": [
@@ -643,7 +643,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5314b3cd-f9ec-453e-be06-ffccff5689cf",
+                    "id": "b2c00f16-a01a-45b1-bb65-2d71de0c08d2",
                     "prompt": "Argument: 'This vitamin has thousands of positive reviews, so it must be effective.' What is the main flaw?",
                     "supplement": "",
                     "options": [
@@ -662,7 +662,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "b3892617-8d18-438d-970b-03a48d2d2f54",
+                    "id": "e9d0aaa3-4f14-4604-8d06-f3b34f2782a3",
                     "prompt": "All tulips are plants. Some plants are poisonous. Which statement is definitely true?",
                     "supplement": "",
                     "options": [
@@ -681,7 +681,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "9dfca981-2638-4458-aa58-ee91fb796c4a",
+                    "id": "7e596a82-2552-494f-8748-2935db60313d",
                     "prompt": "Two fair six-sided dice are rolled. What is the probability the sum is 9?",
                     "supplement": "",
                     "options": [
@@ -700,8 +700,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "676fa62b-0611-4ead-b751-22ff174b492c",
-                    "prompt": "Using the test above (92% sensitivity, 85% specifilocal authority) with 20% prevalence, if someone tests positive, what is the approximate probability they truly have the condition?",
+                    "id": "9d855771-7c33-4dce-93e4-63173b022608",
+                    "prompt": "Using the test above (92% sensitivity, 85% specificity) with 20% prevalence, if someone tests positive, what is the approximate probability they truly have the condition?",
                     "supplement": "",
                     "options": [
                         "About 40%",
@@ -719,8 +719,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3ecd0745-feae-40a0-af8d-061161f145f9",
-                    "prompt": "A organisation chooses a supplier. Rule: If the supplier is overseas, then delivery takes longer than 5 days. Delivery took 3 days. What follows?",
+                    "id": "7e6fecb1-1d81-4fec-b1f3-d6acd1d17a6f",
+                    "prompt": "A company chooses a supplier. Rule: If the supplier is overseas, then delivery takes longer than 5 days. Delivery took 3 days. What follows?",
                     "supplement": "",
                     "options": [
                         "The supplier was overseas.",
@@ -745,7 +745,7 @@
             "timeLimitSeconds": 1500,
             "questions": [
                 {
-                    "id": "315b4d1f-ae0e-464a-9fd6-7e61be8041fa",
+                    "id": "62632ca2-bf25-4a4a-89d6-d50ba3f02910",
                     "prompt": "A coat originally costs £96 and is reduced by 30%. What is the sale price?",
                     "supplement": "",
                     "options": [
@@ -764,7 +764,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "4a042d4b-e090-4f39-a81f-3a536ec43dfb",
+                    "id": "a0672ad4-a7bd-4f4d-a121-90a61e924f00",
                     "prompt": "A smoothie recipe uses fruit: yoghurt in the ratio 5:3. If you use 450 ml of fruit, how much yoghurt is needed?",
                     "supplement": "",
                     "options": [
@@ -783,7 +783,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "12a58489-667e-4ef5-b691-5cd8c4ad63b3",
+                    "id": "2246a9a5-e6bc-4727-a8fb-7ea5228847bb",
                     "prompt": "Solve for x: 7x + 9 = 58",
                     "supplement": "",
                     "options": [
@@ -802,8 +802,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "2d7a3e03-1fa9-465e-9131-da750fff244e",
-                    "prompt": "A coach travels 210 km in 3.5 hours. What is its average speed?",
+                    "id": "d81c4d0a-b640-4638-9691-ef9d23c966cc",
+                    "prompt": "A bus travels 210 km in 3.5 hours. What is its average speed?",
                     "supplement": "",
                     "options": [
                         "50 km/h",
@@ -821,7 +821,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7383f645-435e-477d-a8e5-7d80045fe3e9",
+                    "id": "918d5552-7315-4684-a9a8-10165540b346",
                     "prompt": "Table: Gym visits\nMon 34\nTue 28\nWed 31\nThu 37\nFri 30\nHow many visits were made from Monday to Wednesday inclusive?",
                     "supplement": "",
                     "options": [
@@ -840,8 +840,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "b7703444-0ab4-4035-9929-6e1f555bbb54",
-                    "prompt": "A device costs £420 before VAT. VAT is 20%. What is the total price including VAT?",
+                    "id": "cd27bc1a-f0a2-48cc-8ca2-5b0c5ff9736a",
+                    "prompt": "A phone costs £420 before VAT. VAT is 20%. What is the total price including VAT?",
                     "supplement": "",
                     "options": [
                         "£462",
@@ -859,7 +859,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8bd43d17-32f3-42d3-88f3-239162e904d8",
+                    "id": "74fdb87f-a953-40cd-a513-134db28033e3",
                     "prompt": "You exchange £350 into euros at £1 = €1.12, then pay a €10 fee. How many euros do you receive?",
                     "supplement": "",
                     "options": [
@@ -878,8 +878,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e9ed8369-fd64-4816-ae47-e12257daa485",
-                    "prompt": "A tank is 25% full. After adding 30 litres, it becomes 55% full. What is the tank's capalocal authority?",
+                    "id": "ba5a265d-10b6-4132-bcef-316021c51b26",
+                    "prompt": "A tank is 25% full. After adding 30 litres, it becomes 55% full. What is the tank's capacity?",
                     "supplement": "",
                     "options": [
                         "75 L",
@@ -897,7 +897,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e78f3239-0f69-4d40-8056-1344b3d901c8",
+                    "id": "258431ed-2e79-4e7e-8d7d-519f805ae397",
                     "prompt": "A car uses 6.5 litres of fuel per 100 km. How much fuel is used over 320 km?",
                     "supplement": "",
                     "options": [
@@ -916,7 +916,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d939f929-580a-449b-bf76-744e36448af6",
+                    "id": "f50ca9a1-465a-4602-b7e8-742cdb48ee9c",
                     "prompt": "Red:Blue:Green beads are in the ratio 1:4:5. There are 60 beads total. How many are green?",
                     "supplement": "",
                     "options": [
@@ -935,7 +935,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e7a5c591-0590-4de4-9557-fd60e505ffed",
+                    "id": "b11711ce-2011-46b5-b6fd-22ba91c20e6d",
                     "prompt": "A worker earns £14 per hour and gets double pay on Sundays. They work 6 regular hours and 3 Sunday hours. What is their total pay?",
                     "supplement": "",
                     "options": [
@@ -954,7 +954,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8d6b3af1-9af6-48af-8dc3-9f08e79b4517",
+                    "id": "99f8bcfa-680a-499b-b6a7-c0ab0864979e",
                     "prompt": "Table: Emails received\nMon 60\nTue 48\nWed 52\nThu 40\nFri 50\nWhat is the average emails per day?",
                     "supplement": "",
                     "options": [
@@ -973,8 +973,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c1b0213e-0ee6-497f-9c16-6975f673d9d8",
-                    "prompt": "A retailer buys headdevices for £28 and sells them for £35. What is the profit percentage on cost?",
+                    "id": "c2dc9895-c534-4406-9968-aa02e188ef7d",
+                    "prompt": "A shop buys headphones for £28 and sells them for £35. What is the profit percentage on cost?",
                     "supplement": "",
                     "options": [
                         "20%",
@@ -992,7 +992,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d935f088-1f9e-4bf2-b3a7-cd3253efa5db",
+                    "id": "88485351-763d-46fa-8472-c553c81ca7b3",
                     "prompt": "Solve: 4(x − 3) = 44",
                     "supplement": "",
                     "options": [
@@ -1011,7 +1011,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "438cb726-046e-4324-afc1-c015fdae69ed",
+                    "id": "8d83fcf1-4879-4ebe-a29b-5f848ff1c24d",
                     "prompt": "A map scale is 1:50,000. A river section measures 3.6 cm on the map. What is the real distance?",
                     "supplement": "",
                     "options": [
@@ -1030,8 +1030,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e7efb095-abe3-4517-8920-447f2f027c39",
-                    "prompt": "A organisation's monthly revenue rises from £1.8m to £2.25m. What is the percentage increase?",
+                    "id": "06c3af70-97a9-4c1c-a5ef-9dfdd3b1bd47",
+                    "prompt": "A company's monthly revenue rises from £1.8m to £2.25m. What is the percentage increase?",
                     "supplement": "",
                     "options": [
                         "20%",
@@ -1049,7 +1049,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "35ff9295-413b-49ca-965d-785ec74702af",
+                    "id": "b61375a3-f9ff-4f1c-9bf7-7e0d48069f93",
                     "prompt": "You buy 5 coffees and 3 sandwiches for £27. Coffees cost £2.40 each. What is the cost of one sandwich?",
                     "supplement": "",
                     "options": [
@@ -1068,7 +1068,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3e9aaa7c-7b12-41e8-a0be-8158f9995f09",
+                    "id": "ef1b0860-aaa4-48e2-b9f3-0d26eceebdb7",
                     "prompt": "A loan of £900 is repaid over 6 months with equal monthly payments plus a one-off £18 setup fee added to the first payment. If the monthly base payment is £150, what is the total amount paid?",
                     "supplement": "",
                     "options": [
@@ -1087,7 +1087,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "f91cf232-7f0a-4127-a035-d69c2cd9fa1d",
+                    "id": "79b31a72-4739-4e2d-83cc-ba1ffc56a2ae",
                     "prompt": "Two numbers have a sum of 52 and a difference of 14. What is the larger number?",
                     "supplement": "",
                     "options": [
@@ -1106,7 +1106,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ababd1fb-8608-4ef7-b155-668d0dae1452",
+                    "id": "13433074-8e4d-483a-8262-c36270e32b16",
                     "prompt": "An investment increases by 8% in year 1 and then decreases by 8% in year 2. Starting from £2,500, what is the final value?",
                     "supplement": "",
                     "options": [
@@ -1132,8 +1132,8 @@
             "timeLimitSeconds": 1560,
             "questions": [
                 {
-                    "id": "d73123e2-4ae7-44a1-89f2-ec528a98ddb0",
-                    "prompt": "A service user becomes angry when you explain there is a delay because an emergency case arrived. What is the best response?",
+                    "id": "5bf12153-dcb1-4bd5-bc08-188ed1ff5378",
+                    "prompt": "A patient becomes angry when you explain there is a delay because an emergency case arrived. What is the best response?",
                     "supplement": "",
                     "options": [
                         "Tell them delays are normal and they should stop complaining.",
@@ -1151,8 +1151,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "f0a7749a-01f2-4267-ac69-af87065a5093",
-                    "prompt": "You notice a peer discussing identifiable service user details in a café after placement. What should you do?",
+                    "id": "3e604863-3018-43e4-bffb-27ab2389d25a",
+                    "prompt": "You notice a classmate discussing identifiable patient details in a café after placement. What should you do?",
                     "supplement": "",
                     "options": [
                         "Join the conversation to help them remember details.",
@@ -1170,7 +1170,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c101ce0f-85c4-4b62-8ea2-179e7f2f453a",
+                    "id": "7ba48f5b-c533-4b28-a66d-7008695e5ea1",
                     "prompt": "A senior clinician asks you to administer a medication you have not been trained to give. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
@@ -1189,8 +1189,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7b1ccfe5-0f3f-4d2b-885f-81b4fdf2212f",
-                    "prompt": "You realise you entered the wrong date in a service user's notes. The error is minor but could confuse others. What should you do?",
+                    "id": "9c4dc93a-6809-4af1-bdf6-7afb95f4a383",
+                    "prompt": "You realise you entered the wrong date in a patient's notes. The error is minor but could confuse others. What should you do?",
                     "supplement": "",
                     "options": [
                         "Delete the record and retype it.",
@@ -1208,7 +1208,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "8cf87d59-b1e6-4c6b-9082-9a57e91e8db4",
+                    "id": "ef87ec12-4495-4242-a698-102fc5102c3e",
                     "prompt": "During a handover, one team member keeps interrupting others, and important information is being missed. What is the best action?",
                     "supplement": "",
                     "options": [
@@ -1227,8 +1227,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7f8d13eb-e804-4bb8-8163-d5c3be616bb2",
-                    "prompt": "A service user asks you for test results that you are not authorised to disclose. What should you do?",
+                    "id": "000944e6-044f-460e-888f-ab87d57de391",
+                    "prompt": "A patient asks you for test results that you are not authorised to disclose. What should you do?",
                     "supplement": "",
                     "options": [
                         "Tell them the results if you can access them.",
@@ -1246,7 +1246,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "7b8f90aa-d029-4d1b-98d7-61f8113070a6",
+                    "id": "ac96aed7-5f6f-4f1e-a647-af008f18f4fd",
                     "prompt": "You are running behind and consider skipping an identity check before a procedure to save time. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
@@ -1265,8 +1265,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ca2430c1-21be-45be-b96f-7222458ee586",
-                    "prompt": "A team member posts a photo from the ward on social media. No service users are visible, but the ward name is shown. What should you do?",
+                    "id": "5bd437c8-7da6-49f6-aecf-3613bb4233e0",
+                    "prompt": "A colleague posts a photo from the ward on social media. No patients are visible, but the ward name is shown. What should you do?",
                     "supplement": "",
                     "options": [
                         "Like the post to support them.",
@@ -1284,8 +1284,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "ea1939de-de3e-4f03-9ae6-f823046add59",
-                    "prompt": "A service user appears confused when you explain how to take their medication but keeps nodding. What is the best action?",
+                    "id": "9c6c76be-1bb3-415d-8a9f-7eb297f6d88b",
+                    "prompt": "A patient appears confused when you explain how to take their medication but keeps nodding. What is the best action?",
                     "supplement": "",
                     "options": [
                         "Assume they understand because they nodded.",
@@ -1303,7 +1303,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "d49c1e07-37aa-4bd3-bc4d-ef64b4a33a72",
+                    "id": "327a6194-cd28-41ae-a261-ea8e35783f0d",
                     "prompt": "You find a wet floor in a corridor with no warning sign. What should you do first?",
                     "supplement": "",
                     "options": [
@@ -1322,8 +1322,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "085fa7bb-f1f5-4a52-aecf-59c696f0a210",
-                    "prompt": "A multidisciplinary meeting is being dominated by one voice and quieter team members are not contributing. What is the best approach?",
+                    "id": "f574f6f5-91b8-4d03-a2ae-f60151d2db80",
+                    "prompt": "A multidisciplinary meeting is being dominated by one voice and quieter colleagues are not contributing. What is the best approach?",
                     "supplement": "",
                     "options": [
                         "Say nothing to avoid embarrassing anyone.",
@@ -1341,8 +1341,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "49faeaa9-400b-4cf7-b853-1ee9057406f8",
-                    "prompt": "A service user tells you they are considering self-harm. What should you do?",
+                    "id": "5d05631e-3f02-4c4c-bc5b-0bcf5125df9c",
+                    "prompt": "A patient tells you they are considering self-harm. What should you do?",
                     "supplement": "",
                     "options": [
                         "Promise to keep it secret.",
@@ -1360,8 +1360,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cc6902ae-57fd-4122-b9c1-0800c4edf272",
-                    "prompt": "You receive a gift from a service user that seems expensive. What is the most appropriate action?",
+                    "id": "9c5d5213-6d8c-4ad2-8800-ae352e881703",
+                    "prompt": "You receive a gift from a patient that seems expensive. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Accept it quietly because it is a thank-you.",
@@ -1379,8 +1379,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "c9a18c48-d75e-4ba5-b65a-c0304177c8c5",
-                    "prompt": "You make a near-miss error that did not harm a service user. What should you do?",
+                    "id": "4612f077-1c93-4e2c-9c01-83e5b1d61d75",
+                    "prompt": "You make a near-miss error that did not harm a patient. What should you do?",
                     "supplement": "",
                     "options": [
                         "Hide it to avoid blame.",
@@ -1398,8 +1398,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5c7c7887-f0f9-4bec-95b7-5fb0a59b4aa9",
-                    "prompt": "A service user's relative asks you for confidential information while the service user has capalocal authority and is not present. What should you do?",
+                    "id": "fc9a84d9-ba6a-457e-90bd-cf9277cc7d10",
+                    "prompt": "A patient's relative asks you for confidential information while the patient has capacity and is not present. What should you do?",
                     "supplement": "",
                     "options": [
                         "Share information because the relative seems worried.",
@@ -1417,7 +1417,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "5f18a3ee-0dd2-41ef-adb4-3439e3c6a775",
+                    "id": "6ce35cb4-f640-4206-a098-5ab072114163",
                     "prompt": "You suspect another student has miscalculated a dose. The medication is due soon. What should you do?",
                     "supplement": "",
                     "options": [
@@ -1436,8 +1436,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "1f61ca47-9490-4e92-824e-136bc41ffa56",
-                    "prompt": "A team member looks distressed during a coachy shift and is making small mistakes. What is the most appropriate action?",
+                    "id": "c38f150b-1e88-4f6b-8677-1b4c0c78a8e6",
+                    "prompt": "A colleague looks distressed during a busy shift and is making small mistakes. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Ignore them because the shift is busy.",
@@ -1455,7 +1455,7 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "e44b2df6-0ed9-4b11-8f4a-580e4b6947af",
+                    "id": "cb861f62-6597-43a0-9c09-92ae8e98cf8f",
                     "prompt": "You disagree with a proposed plan in a team meeting. What is the best approach?",
                     "supplement": "",
                     "options": [
@@ -1474,8 +1474,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "cbeea91d-1c97-43fa-a539-8df3b3452b17",
-                    "prompt": "You overhear staff making mocking comments about a service user. What should you do?",
+                    "id": "466947ea-bf0b-42e9-9cfa-38dd6a0af41c",
+                    "prompt": "You overhear staff making mocking comments about a patient. What should you do?",
                     "supplement": "",
                     "options": [
                         "Join in to fit in.",
@@ -1493,8 +1493,8 @@
                     "createdBy": "ChatGPT"
                 },
                 {
-                    "id": "3d7431f1-ff6d-4252-a3c6-af614509eed2",
-                    "prompt": "A team member asks you to 'sign off' a checklist step you did not witness. What is the most appropriate action?",
+                    "id": "45d9a5bf-0b89-4375-b76e-d47abf3a9be3",
+                    "prompt": "A colleague asks you to 'sign off' a checklist step you did not witness. What is the most appropriate action?",
                     "supplement": "",
                     "options": [
                         "Sign it to help them out.",
