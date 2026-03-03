@@ -1,0 +1,1522 @@
+{
+    "packVersion": 1,
+    "title": "UCAT Practice Pack (Full Test) - Fresh Set 102_v2 (Harder, Validated)",
+    "createdAt": "2026-03-03T00:00:00Z",
+    "sections": [
+        {
+            "id": "VR",
+            "name": "Verbal Reasoning",
+            "timeLimitSeconds": 1260,
+            "questions": [
+                {
+                    "id": "4e457ba9-4e5d-4a97-b4fa-635f4f5e3ba4",
+                    "prompt": "Which conclusion is best supported by the passage?",
+                    "supplement": "A city library introduced a reservation system for study desks during exam season. Before the change, students often arrived early to “hold” desks with bags, leaving seats empty for long periods. After reservations began, occupancy during peak hours increased, but staff spent more time resolving disputes when reservations were missed. The library then added a 15‑minute grace period and an automated text reminder. Disputes fell, while peak-hour occupancy remained high.",
+                    "options": [
+                        "Reservations reduced overall demand for desks.",
+                        "The reservation system improved desk use, and small process changes reduced conflict without losing the benefit.",
+                        "Disputes increased after the grace period was added.",
+                        "Text reminders reduced peak-hour occupancy."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Occupancy rose after reservations; disputes fell after reminders/grace period while occupancy stayed high.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9245feee-058a-4b33-9c7f-f6903318e695",
+                    "prompt": "What is the main idea of the passage?",
+                    "supplement": "A city library introduced a reservation system for study desks during exam season. Before the change, students often arrived early to “hold” desks with bags, leaving seats empty for long periods. After reservations began, occupancy during peak hours increased, but staff spent more time resolving disputes when reservations were missed. The library then added a 15‑minute grace period and an automated text reminder. Disputes fell, while peak-hour occupancy remained high.",
+                    "options": [
+                        "Libraries should ban bags in all areas.",
+                        "A desk reservation policy improved utilisation, and iterative refinements addressed operational problems.",
+                        "Students prefer disputes to waiting.",
+                        "Exam season makes policies ineffective."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "It describes the policy, the issue it created, and refinements that improved outcomes.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9977fd47-3da7-42ab-9a3c-1ef930b6b0ce",
+                    "prompt": "In context, “occupancy” most nearly means:",
+                    "supplement": "A city library introduced a reservation system for study desks during exam season. Before the change, students often arrived early to “hold” desks with bags, leaving seats empty for long periods. After reservations began, occupancy during peak hours increased, but staff spent more time resolving disputes when reservations were missed. The library then added a 15‑minute grace period and an automated text reminder. Disputes fell, while peak-hour occupancy remained high.",
+                    "options": [
+                        "noise level",
+                        "seat usage",
+                        "building age",
+                        "rule compliance"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Occupancy refers to how many desks/seats are in use.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7c7bbc6f-17b3-4157-9bab-e196d9862aa7",
+                    "prompt": "Which inference is best supported by the passage?",
+                    "supplement": "A food-delivery company tested an “eco-route” option that groups orders to reduce trips. Deliveries using eco-route arrived, on average, eight minutes later than standard deliveries, but customer ratings were similar. Riders reported fewer kilometres travelled per hour, yet also fewer unsafe “rush” behaviours because routes were more predictable. After the trial, the company offered eco-route at a small discount and kept the standard option for customers who prioritised speed.",
+                    "options": [
+                        "Eco-route reduced customer satisfaction.",
+                        "The company traded a small delay for efficiency and potentially safer riding conditions.",
+                        "Riders travelled more kilometres per hour on eco-route.",
+                        "Customers refused to use standard delivery after the trial."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Eco-route was slower but ratings similar; riders reported less rushing and more predictability.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "eace5632-917a-453f-86ce-f91f3977a241",
+                    "prompt": "Which statement is most supported?",
+                    "supplement": "A food-delivery company tested an “eco-route” option that groups orders to reduce trips. Deliveries using eco-route arrived, on average, eight minutes later than standard deliveries, but customer ratings were similar. Riders reported fewer kilometres travelled per hour, yet also fewer unsafe “rush” behaviours because routes were more predictable. After the trial, the company offered eco-route at a small discount and kept the standard option for customers who prioritised speed.",
+                    "options": [
+                        "Eco-route and standard delivery were merged into one option.",
+                        "The company used pricing to let customers choose between speed and sustainability.",
+                        "The discount applied only to standard delivery.",
+                        "Eco-route deliveries arrived earlier than standard."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Eco-route is discounted while standard remains for speed-focused customers.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "detail"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f9d18f05-eafb-40a1-b1ab-6e8332580995",
+                    "prompt": "In context, “predictable” most nearly means:",
+                    "supplement": "A food-delivery company tested an “eco-route” option that groups orders to reduce trips. Deliveries using eco-route arrived, on average, eight minutes later than standard deliveries, but customer ratings were similar. Riders reported fewer kilometres travelled per hour, yet also fewer unsafe “rush” behaviours because routes were more predictable. After the trial, the company offered eco-route at a small discount and kept the standard option for customers who prioritised speed.",
+                    "options": [
+                        "easy to ignore",
+                        "hard to measure",
+                        "expected",
+                        "dangerous"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Predictable means expected/foreseeable.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "14936078-5f85-44c7-b4fe-ec4601ce47ae",
+                    "prompt": "Which conclusion is best supported by the passage?",
+                    "supplement": "A hospital introduced a single electronic form for ordering blood tests. Previously, each department used its own template, and missing information caused delays. After the change, rejected requests fell by a third. However, clinicians complained the new form felt slower because it asked for information irrelevant to their specialty. The hospital responded by adding specialty-specific “quick sections” that auto-filled common fields. Complaints decreased, while the lower rejection rate persisted.",
+                    "options": [
+                        "Rejections fell because fewer tests were ordered.",
+                        "A standard form reduced errors, and tailoring the interface improved user experience without losing the gain.",
+                        "Quick sections increased rejection rates.",
+                        "Clinicians preferred multiple templates."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Standardisation reduced rejections; tailored quick sections reduced complaints while keeping low rejection.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c8d0a854-67d7-4f5b-ace2-9a8729b35706",
+                    "prompt": "The author’s tone is best described as:",
+                    "supplement": "A hospital introduced a single electronic form for ordering blood tests. Previously, each department used its own template, and missing information caused delays. After the change, rejected requests fell by a third. However, clinicians complained the new form felt slower because it asked for information irrelevant to their specialty. The hospital responded by adding specialty-specific “quick sections” that auto-filled common fields. Complaints decreased, while the lower rejection rate persisted.",
+                    "options": [
+                        "sarcastic",
+                        "neutral and informative",
+                        "angry",
+                        "celebratory"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "The passage reports changes and outcomes neutrally.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "author-tone"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d7202bc3-786e-4180-8aff-d000339e091b",
+                    "prompt": "In the passage, “irrelevant” most nearly means:",
+                    "supplement": "A hospital introduced a single electronic form for ordering blood tests. Previously, each department used its own template, and missing information caused delays. After the change, rejected requests fell by a third. However, clinicians complained the new form felt slower because it asked for information irrelevant to their specialty. The hospital responded by adding specialty-specific “quick sections” that auto-filled common fields. Complaints decreased, while the lower rejection rate persisted.",
+                    "options": [
+                        "not related",
+                        "dangerous",
+                        "unclear",
+                        "expensive"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Irrelevant means not related to the specialty.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "5221a0ea-6bfd-43b7-9911-b4aa9c7f3f70",
+                    "prompt": "Which inference is best supported?",
+                    "supplement": "A university replaced long lecture recordings with shorter “chapter” videos. View counts rose, and students reported it was easier to revisit specific topics. Yet some students watched only the chapters they found easiest, skipping harder sections. In response, the platform began showing a progress bar and suggested a weekly viewing plan. The next term, completion across all chapters increased, while view counts remained high.",
+                    "options": [
+                        "Shorter videos reduced overall engagement.",
+                        "Some students used the flexibility to avoid difficult content, and guidance features improved completion.",
+                        "Progress bars reduced view counts.",
+                        "Weekly plans made chapters longer."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Skipping harder chapters increased; progress bar/plan raised completion while views stayed high.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ce207b8f-0286-494e-bfe8-5542965a474c",
+                    "prompt": "What is the main idea?",
+                    "supplement": "A university replaced long lecture recordings with shorter “chapter” videos. View counts rose, and students reported it was easier to revisit specific topics. Yet some students watched only the chapters they found easiest, skipping harder sections. In response, the platform began showing a progress bar and suggested a weekly viewing plan. The next term, completion across all chapters increased, while view counts remained high.",
+                    "options": [
+                        "Breaking content into chapters improved access, and added nudges helped students engage more evenly.",
+                        "Students should be forced to watch videos in one sitting.",
+                        "Lecture recordings are always ineffective.",
+                        "Progress bars are unnecessary."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Chunking improved access; nudges addressed uneven viewing.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fe3d685a-74e6-4df6-952a-c81720be6392",
+                    "prompt": "In context, “revisit” most nearly means:",
+                    "supplement": "A university replaced long lecture recordings with shorter “chapter” videos. View counts rose, and students reported it was easier to revisit specific topics. Yet some students watched only the chapters they found easiest, skipping harder sections. In response, the platform began showing a progress bar and suggested a weekly viewing plan. The next term, completion across all chapters increased, while view counts remained high.",
+                    "options": [
+                        "avoid",
+                        "return to",
+                        "erase",
+                        "compress"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Revisit means return to a topic again.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "13a0047b-7779-45b0-9709-af69b020904d",
+                    "prompt": "Which conclusion is best supported by the passage?",
+                    "supplement": "A retailer trialled a “quiet hour” each morning with reduced music and dimmer lighting. Staff noted fewer incidents involving anxious customers, but sales per hour were slightly lower during the quiet period. The retailer kept quiet hour because feedback indicated it improved access for some shoppers, and it shifted a promotions announcement to later in the day to reduce the sales drop.",
+                    "options": [
+                        "Quiet hour increased sales per hour immediately.",
+                        "The retailer prioritised accessibility benefits even though there was a small trade-off in sales during that hour.",
+                        "Promotions were cancelled entirely.",
+                        "Fewer anxious customers caused lower sales."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "They kept quiet hour for accessibility despite lower sales per hour.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f9b39663-eb36-49ec-b255-a1616b9099a9",
+                    "prompt": "Which statement is most supported?",
+                    "supplement": "A retailer trialled a “quiet hour” each morning with reduced music and dimmer lighting. Staff noted fewer incidents involving anxious customers, but sales per hour were slightly lower during the quiet period. The retailer kept quiet hour because feedback indicated it improved access for some shoppers, and it shifted a promotions announcement to later in the day to reduce the sales drop.",
+                    "options": [
+                        "The promotions announcement was moved to reduce the negative sales impact.",
+                        "The retailer removed dim lighting after complaints.",
+                        "Customers disliked quiet hour.",
+                        "Quiet hour happened only on weekends."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "It states promotions announcement was shifted later to reduce sales drop.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "detail"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "11ff1ad0-cc99-4401-897e-372a8e8d4de5",
+                    "prompt": "In context, “incidents” most nearly means:",
+                    "supplement": "A retailer trialled a “quiet hour” each morning with reduced music and dimmer lighting. Staff noted fewer incidents involving anxious customers, but sales per hour were slightly lower during the quiet period. The retailer kept quiet hour because feedback indicated it improved access for some shoppers, and it shifted a promotions announcement to later in the day to reduce the sales drop.",
+                    "options": [
+                        "accidents or events",
+                        "discounts",
+                        "posters",
+                        "profits"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Incidents refers to events/problems involving customers.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "1cf51ed0-a47f-4a51-a2ba-a727cea1ad4d",
+                    "prompt": "Which inference is best supported by the passage?",
+                    "supplement": "A council added protected cycle lanes on a busy road. Cycling counts rose by 20%, but average car journey time increased by two minutes at peak. Some residents argued the lanes should be removed. The council responded that the goal was to improve safety and options for travel, and it adjusted traffic-signal timings to reduce the peak delay. After the adjustment, peak car journey times improved slightly while cycling counts remained above the pre-lane level.",
+                    "options": [
+                        "The council removed the cycle lanes.",
+                        "Signal adjustments aimed to reduce delays while keeping the safety/choice benefits of the lanes.",
+                        "Cycling counts fell below the original level after adjustments.",
+                        "Car delays were eliminated entirely."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "They kept lanes and adjusted signals; delays improved slightly while cycling stayed higher.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "inference"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c9e81780-bc2e-4b91-b17b-edc787d31e5f",
+                    "prompt": "What is the main idea?",
+                    "supplement": "A council added protected cycle lanes on a busy road. Cycling counts rose by 20%, but average car journey time increased by two minutes at peak. Some residents argued the lanes should be removed. The council responded that the goal was to improve safety and options for travel, and it adjusted traffic-signal timings to reduce the peak delay. After the adjustment, peak car journey times improved slightly while cycling counts remained above the pre-lane level.",
+                    "options": [
+                        "Cycle lanes are always unpopular.",
+                        "A cycling intervention increased cycling but caused traffic delays, which were partially mitigated by later adjustments.",
+                        "Traffic signals never affect journeys.",
+                        "Peak delays prove cycle lanes are unsafe."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "It describes increased cycling, initial delay, and mitigation via signal timing.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "main-idea"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "99ca30b2-5ecc-4902-98cb-9f63c9a8200a",
+                    "prompt": "In context, “mitigated” most nearly means:",
+                    "supplement": "A council added protected cycle lanes on a busy road. Cycling counts rose by 20%, but average car journey time increased by two minutes at peak. Some residents argued the lanes should be removed. The council responded that the goal was to improve safety and options for travel, and it adjusted traffic-signal timings to reduce the peak delay. After the adjustment, peak car journey times improved slightly while cycling counts remained above the pre-lane level.",
+                    "options": [
+                        "made worse",
+                        "reduced",
+                        "ignored",
+                        "replaced"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Mitigated means reduced/lessened.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "vocabulary"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "DM",
+            "name": "Decision Making",
+            "timeLimitSeconds": 1860,
+            "questions": [
+                {
+                    "id": "520cac15-2e67-4cfd-8133-7285890576ae",
+                    "prompt": "All paramedics are trained in emergency protocols. Some trained people are first-aiders. Which conclusion follows?",
+                    "supplement": "Statements:\n1) All paramedics are trained in emergency protocols.\n2) Some trained people are first-aiders.",
+                    "options": [
+                        "Some paramedics are first-aiders.",
+                        "All first-aiders are paramedics.",
+                        "It is possible that some paramedics are first-aiders.",
+                        "No paramedics are first-aiders."
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Overlap is unknown; it could exist but isn't guaranteed.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "97a76a06-3e70-4296-a210-c628ffae5e9c",
+                    "prompt": "Which statement is logically equivalent to: 'You can submit the report only if your manager approves it'?",
+                    "supplement": "",
+                    "options": [
+                        "If your manager approves it, you can submit the report.",
+                        "If you submit the report, your manager approved it.",
+                        "If your manager does not approve it, you can submit the report.",
+                        "If you do not submit the report, your manager did not approve it."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "'Only if' makes approval necessary: Submit → Approved.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fc804417-7d11-4b1d-b028-bd8f7127c143",
+                    "prompt": "If today is Friday, what day will it be 365 days from today? (Assume a non‑leap year.)",
+                    "supplement": "",
+                    "options": [
+                        "Saturday",
+                        "Sunday",
+                        "Monday",
+                        "Thursday"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "365 ≡ 1 (mod 7), so Friday advances by 1 day → Saturday.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "97c8d9ca-9503-4d02-bb1f-c7c74f5fbacb",
+                    "prompt": "Two fair six-sided dice are rolled. What is the probability the sum is a prime number?",
+                    "supplement": "",
+                    "options": [
+                        "5/12",
+                        "1/2",
+                        "7/12",
+                        "2/3"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Prime sums 2,3,5,7,11 have 15 outcomes out of 36 → 5/12.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ec9a50f5-4b4f-4351-9251-eb8be922a867",
+                    "prompt": "A jar has 8 red, 5 blue and 7 green beads. Two beads are drawn without replacement. What is the probability the two beads are different colours?",
+                    "supplement": "",
+                    "options": [
+                        "0.59",
+                        "0.64",
+                        "0.68",
+                        "0.69"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "Different = 1 − same; same=(28+10+21)/190=59/190, so different=131/190≈0.689.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "fa7d243f-3c1c-4a17-a917-0c640f531a9b",
+                    "prompt": "A bag contains 6 orange, 4 purple and 2 white tiles. One tile is drawn. What is P(orange | not white)?",
+                    "supplement": "",
+                    "options": [
+                        "1/2",
+                        "3/5",
+                        "2/3",
+                        "3/4"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Given not white, total=10 and orange=6 → 6/10=3/5.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "conditional-probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7ccf80d6-434d-4cd4-96fb-3c451688b7df",
+                    "prompt": "Claim: 'Adding a second identity check before blood transfusion reduces wrong-patient errors.' Which evidence most strengthens the claim?",
+                    "supplement": "",
+                    "options": [
+                        "After the second check was introduced, wrong-patient errors fell compared with similar wards that did not introduce the change over the same period.",
+                        "Staff reported feeling less stressed.",
+                        "The hospital changed its uniform policy at the same time.",
+                        "Some patients dislike being asked questions."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "A matched comparison supports causation best.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "argument"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9de1ce3f-a36d-4f32-925e-8bcef853e4c7",
+                    "prompt": "Claim: 'A new online booking system reduced missed appointments.' Which information most weakens the claim?",
+                    "supplement": "",
+                    "options": [
+                        "At the same time, the clinic started sending reminder texts to all patients.",
+                        "Some patients prefer morning appointments.",
+                        "Appointments are shorter on Fridays.",
+                        "The clinic repainted the waiting room."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Reminder texts could explain the reduction independently of booking.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "argument"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "0753b57e-d478-40c9-ab3e-141f03e660a0",
+                    "prompt": "Rule: If a shipment is international, delivery takes more than 7 days. A delivery took 5 days. What follows?",
+                    "supplement": "",
+                    "options": [
+                        "The shipment was international.",
+                        "The shipment was not international.",
+                        "International shipments always take 5 days.",
+                        "The shipment must be by air."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Contrapositive: not >7 days ⇒ not international.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "57397524-dd28-4448-ac23-e314d89d30cb",
+                    "prompt": "A box contains 3 defective and 17 non-defective items. Two items are selected without replacement. What is the probability at least one is defective?",
+                    "supplement": "",
+                    "options": [
+                        "0.24",
+                        "0.27",
+                        "0.28",
+                        "0.32"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "1−(17/20)(16/19)=108/380≈0.284 → 0.28.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "f57152a8-d362-42f4-b0ca-c45b77c98d79",
+                    "prompt": "A fair coin is flipped 7 times. What is the probability of getting exactly 3 heads?",
+                    "supplement": "",
+                    "options": [
+                        "15/128",
+                        "21/128",
+                        "35/128",
+                        "1/4"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "C(7,3)/2^7 = 35/128.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "593170be-0e06-43d6-be19-367e33b4cb90",
+                    "prompt": "A fair coin is flipped 6 times. What is the probability of getting at least 5 heads?",
+                    "supplement": "",
+                    "options": [
+                        "7/64",
+                        "5/64",
+                        "3/32",
+                        "1/16"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "C(6,5)/64 + C(6,6)/64 = 7/64.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "74ec6e4d-27bc-4d91-ba03-aa6f2ea3e24f",
+                    "prompt": "Four tasks (A, B, C, D) are scheduled Mon–Thu, one per day. Rules: B is on Tuesday. D is immediately after B. A is before C. Which day is C on?",
+                    "supplement": "",
+                    "options": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "B Tue ⇒ D Wed; A/C are Mon/Thu with A before C ⇒ C Thu.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "59892e14-6c4b-487b-a53f-1c9c08e1ca40",
+                    "prompt": "Some architects are cyclists. No cyclists are scuba divers. Which statement must be true?",
+                    "supplement": "",
+                    "options": [
+                        "Some architects are not scuba divers.",
+                        "All architects are scuba divers.",
+                        "Some scuba divers are cyclists.",
+                        "No architects are cyclists."
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "Those architects who are cyclists cannot be scuba divers.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "syllogism"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "3e09664a-d940-468c-bb8d-b5de975b712f",
+                    "prompt": "A test has 90% sensitivity and 85% specificity. Prevalence is 10%. If a person tests positive, what is the approximate probability they truly have the condition?",
+                    "supplement": "",
+                    "options": [
+                        "25%",
+                        "40%",
+                        "55%",
+                        "75%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Assume 1000: TP=90, FP=135 → PPV=90/225=40%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "8a6e4176-5fc6-457e-8054-cd5078efcc9e",
+                    "prompt": "A test has 90% sensitivity and 85% specificity. Prevalence is 10%. Approximately what percentage of people will test positive?",
+                    "supplement": "",
+                    "options": [
+                        "12.5%",
+                        "18.0%",
+                        "22.5%",
+                        "30.0%"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "Positives=90+135=225 out of 1000 → 22.5%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "400f3a6a-a3ee-4174-96ae-1c8d4bb11fe6",
+                    "prompt": "If the sample is contaminated, the culture will be invalid. The culture is valid. What follows?",
+                    "supplement": "",
+                    "options": [
+                        "The sample was contaminated.",
+                        "The sample was not contaminated.",
+                        "The sample might or might not be contaminated.",
+                        "The lab must repeat the culture."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Valid culture implies not contaminated (contrapositive).",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "ae6227e9-6ab7-466e-bb21-c76ca3655c5a",
+                    "prompt": "Five books (H, I, J, K, L) are placed on a shelf. H is left of J. K is immediately right of I. L is not at either end. Which arrangement is possible?",
+                    "supplement": "",
+                    "options": [
+                        "J H I K L",
+                        "H L I K J",
+                        "I K L H J",
+                        "L H K I J"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Only 'H L I K J' satisfies all constraints.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "54568e8e-4bff-4e60-9509-664068a47ded",
+                    "prompt": "A raffle ticket has a 0.03 chance of winning £80 and otherwise wins £0. What is the expected value?",
+                    "supplement": "",
+                    "options": [
+                        "£1.20",
+                        "£2.00",
+                        "£2.40",
+                        "£3.20"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "80×0.03 = £2.40.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d66d52a9-9488-431c-a20c-ff320934ac6f",
+                    "prompt": "A meeting starts at 14:18. It lasts 2 hours 47 minutes. What time does it end?",
+                    "supplement": "",
+                    "options": [
+                        "16:55",
+                        "17:00",
+                        "17:05",
+                        "17:15"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "14:18 + 2:47 = 17:05.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "logic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "QR",
+            "name": "Quantitative Reasoning",
+            "timeLimitSeconds": 1500,
+            "questions": [
+                {
+                    "id": "284fc7d5-de8d-406d-ba8e-471815e34e0b",
+                    "prompt": "A product costs £240 before VAT. VAT is 20%. A voucher then applies 15% off the VAT-inclusive price. What is the final price?",
+                    "supplement": "",
+                    "options": [
+                        "£244.80",
+                        "£249.60",
+                        "£252.00",
+                        "£255.60"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "240×1.20=288; 15% off → 288−43.20=£244.80.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "35b06a84-479c-43ee-bc17-334c4d73055e",
+                    "prompt": "A recipe uses flour:sugar:butter in the ratio 5:2:3. If the total mixture is 500 g, how many grams of butter are used?",
+                    "supplement": "",
+                    "options": [
+                        "120 g",
+                        "150 g",
+                        "180 g",
+                        "200 g"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Total parts 10 → 1 part 50 g; butter 3 parts → 150 g.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "7271c476-ed1e-48bf-9c83-898f0b85b3ee",
+                    "prompt": "A train ticket costs £36.00. A group of 18 people buy tickets. Two people have railcards giving 1/3 off. What is the total cost?",
+                    "supplement": "",
+                    "options": [
+                        "£624",
+                        "£636",
+                        "£648",
+                        "£660"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "16×36=576; two at 24 each=48; total 624.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "42875842-0894-407d-8ce9-f5233e70df93",
+                    "prompt": "A clinic schedules 42 appointments per day. The no-show rate is 12%. If each attended appointment averages 14 minutes, approximately how many clinician minutes are used per day?",
+                    "supplement": "",
+                    "options": [
+                        "460",
+                        "517",
+                        "589",
+                        "617"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "42×0.88=36.96 attended; ×14=517.44 ≈ 517.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "rates"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "a77b08e5-62ee-42d9-aa86-28f1be236c56",
+                    "prompt": "Table (units sold): Mon 128, Tue 144, Wed 136, Thu 152, Fri 140. What is the percentage increase from Monday to Thursday?",
+                    "supplement": "",
+                    "options": [
+                        "12.5%",
+                        "15.6%",
+                        "18.8%",
+                        "23.4%"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "(152−128)/128=18.75%≈18.8%.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "tables",
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "8aa14409-d63e-4583-8c19-e8cb1cf75930",
+                    "prompt": "You exchange £900 to euros at £1=€1.18, then exchange back to pounds at €1=£0.83. Ignoring fees, how much do you have in pounds at the end?",
+                    "supplement": "",
+                    "options": [
+                        "£879.30",
+                        "£881.46",
+                        "£885.54",
+                        "£888.60"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "£900→€1,062; €1,062×0.83=£881.46.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "65c0606b-dc1c-4699-a34b-d4743a18681d",
+                    "prompt": "A tank is filled by two pumps. Pump A fills 120 L in 8 minutes. Pump B fills 150 L in 10 minutes. If both run together, how many litres are filled in 15 minutes?",
+                    "supplement": "",
+                    "options": [
+                        "412.5",
+                        "450",
+                        "487.5",
+                        "525"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Rates 15+15=30 L/min; 30×15=450 L.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "rates"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c40bcb42-5911-46f0-ae73-2cf32e06e5ef",
+                    "prompt": "Plan A costs £22/month plus a one-off £35 setup fee. Plan B costs £29/month with no setup fee. After how many months is Plan A cheaper overall?",
+                    "supplement": "",
+                    "options": [
+                        "After 4 months",
+                        "After 5 months",
+                        "After 6 months",
+                        "After 7 months"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "35+22m<29m → m>5 so from month 6 onward.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "algebra"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b9015e34-b49c-495e-8236-5b17b5ef8230",
+                    "prompt": "A shop reduces a £80 item by 25%, then increases the reduced price by 10%. What is the final price?",
+                    "supplement": "",
+                    "options": [
+                        "£60.00",
+                        "£62.00",
+                        "£66.00",
+                        "£68.00"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "£80×0.75=£60; ×1.10=£66.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "09eb42e2-c750-4791-87d3-5e2abac0861b",
+                    "prompt": "A runner completes 5 km in 24 minutes and 8 km in 40 minutes. What is the average speed over the total distance?",
+                    "supplement": "",
+                    "options": [
+                        "11.7 km/h",
+                        "12.3 km/h",
+                        "13.0 km/h",
+                        "13.5 km/h"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "13 km in 64 min = 1.0667 h; 13/1.0667≈12.19≈12.3.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "rates"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "5b0b0779-e858-4bea-bd4b-de104b603229",
+                    "prompt": "Table (hours worked): Alex 38, Bo 44, Cai 35, Dee 40, Eli 45. If overtime is paid for hours above 40 at 1.5× and base rate is £16/hour, what is Bo’s total pay?",
+                    "supplement": "",
+                    "options": [
+                        "£704",
+                        "£720",
+                        "£736",
+                        "£752"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "40×16=640; overtime 4×24=96; total 736.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "tables",
+                        "rates"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9f397a2a-7d55-40ee-8438-8146af111c98",
+                    "prompt": "A warehouse has 1,250 units. It ships 18% on Monday and 22% of the remaining stock on Tuesday. How many units remain after Tuesday?",
+                    "supplement": "",
+                    "options": [
+                        "799.5",
+                        "800",
+                        "820",
+                        "855"
+                    ],
+                    "correctIndex": 0,
+                    "rationale": "After Mon: 1250×0.82=1025; after Tue: 1025×0.78=799.5.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "896dec77-f378-4a44-aecc-4606d41cabee",
+                    "prompt": "A cyclist travels uphill at 12 km/h for 30 minutes and downhill at 24 km/h for 20 minutes. What total distance is travelled?",
+                    "supplement": "",
+                    "options": [
+                        "10 km",
+                        "12 km",
+                        "14 km",
+                        "16 km"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "12×0.5=6; 24×(20/60)=8; total 14 km.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "rates"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "85c03963-d0f9-40a6-adcb-8aae5679fb16",
+                    "prompt": "A charity receives donations in the ratio online:in-person = 7:5. If total donations are £14,400, how much came from in-person donations?",
+                    "supplement": "",
+                    "options": [
+                        "£5,400",
+                        "£6,000",
+                        "£6,600",
+                        "£8,400"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "12 parts → £1,200 each; in-person 5 parts → £6,000.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "9010a64b-20d6-4aed-9b25-8889b2b49d88",
+                    "prompt": "A car’s value depreciates 18% in year 1 and 12% in year 2. Starting value £18,500. What is the value after 2 years (nearest £1)?",
+                    "supplement": "",
+                    "options": [
+                        "£13,318",
+                        "£13,350",
+                        "£13,498",
+                        "£13,632"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "£18,500×0.82=£15,170; ×0.88=£13,349.60≈£13,350.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "508c4aa6-44ed-4c59-a39b-939c38bb45e7",
+                    "prompt": "A workshop uses 12 tables arranged in a 3×4 grid. If each table seats 2 people (long sides only), how many people can be seated?",
+                    "supplement": "",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "correctIndex": 3,
+                    "rationale": "12×2=24.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "arithmetic"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "425668fb-fc2c-4b4a-a4d8-a144e0532c0f",
+                    "prompt": "A medicine is supplied as 250 mg per 5 mL. A patient needs 375 mg. How many mL are required?",
+                    "supplement": "",
+                    "options": [
+                        "6.0 mL",
+                        "7.0 mL",
+                        "7.5 mL",
+                        "8.0 mL"
+                    ],
+                    "correctIndex": 2,
+                    "rationale": "250/5=50 mg/mL; 375/50=7.5 mL.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ratios"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "1d3f445e-87a4-4503-858d-ea7129eee1a9",
+                    "prompt": "A company’s revenue was £2.4m in Q1 and £3.2m in Q2. Costs were £1.6m in Q1 and £2.1m in Q2. What is the percentage increase in profit from Q1 to Q2?",
+                    "supplement": "",
+                    "options": [
+                        "25%",
+                        "35%",
+                        "45%",
+                        "55%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Profit 0.8→1.1; increase 0.3/0.8=37.5% closest 35%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "0a44493f-f297-4dcd-a7f3-d3b8eb840fe3",
+                    "prompt": "A student answers 72 out of 90 questions correctly. What is their score as a percentage?",
+                    "supplement": "",
+                    "options": [
+                        "78%",
+                        "80%",
+                        "82%",
+                        "85%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "72/90=0.8=80%.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "percentages"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "6b347ba0-1e6e-4fc8-abc1-dbfc41e316b5",
+                    "prompt": "A diagnostic test is repeated independently. Each run has a 6% false-positive rate for healthy people. What is the probability a healthy person gets two positives in a row?",
+                    "supplement": "",
+                    "options": [
+                        "0.12%",
+                        "0.36%",
+                        "0.72%",
+                        "1.20%"
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "0.06×0.06=0.0036=0.36%.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "probability"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        },
+        {
+            "id": "SJ",
+            "name": "Situational Judgement",
+            "timeLimitSeconds": 1560,
+            "questions": [
+                {
+                    "id": "5f9eb3ed-5b01-4128-9149-cf7806cf18d5",
+                    "prompt": "You notice a staff member discussing a patient’s condition loudly in a café near the hospital. No names are mentioned, but details could identify the patient. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Ignore it because no names were used.",
+                        "Politely intervene and remind them about confidentiality, suggesting they stop immediately; escalate via policy if needed.",
+                        "Record the conversation and share it with other students.",
+                        "Confront them angrily in public."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Identifiable details can breach confidentiality; intervene and escalate appropriately.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "89c6de93-c752-4ed6-abea-d06a174442f3",
+                    "prompt": "A senior asks you to carry out a clinical task you have not been trained to do. They say, 'It’s straightforward—just do it.' What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Do it to avoid delaying care.",
+                        "Explain you are not trained and request supervision or another qualified person.",
+                        "Watch a video and proceed.",
+                        "Refuse and leave without telling anyone."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Work within competence and seek supervision.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "8777c6f7-5d23-4a63-a106-2aba3ce2c21a",
+                    "prompt": "You realise you entered the wrong observation value in a patient record. The error has not affected care yet. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Delete the entry and re-enter it with no note.",
+                        "Correct it transparently according to policy and inform the relevant clinician/team.",
+                        "Leave it because it has not caused harm.",
+                        "Ask a colleague to change it using their login."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Make an auditable correction and communicate promptly.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics",
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "08c51587-5b78-41e1-8467-9045f7157050",
+                    "prompt": "A colleague seems overwhelmed and is making small mistakes. What is the best response?",
+                    "supplement": "",
+                    "options": [
+                        "Ignore it; everyone is busy.",
+                        "Check in privately, offer practical help, and encourage them to seek supervisor support if needed.",
+                        "Tell others to avoid working with them.",
+                        "Publicly criticise them so they improve."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Support discreetly and escalate if risk persists.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "teamwork"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "476e2acd-1b80-4fdf-9e62-29e21d1e31e2",
+                    "prompt": "A patient becomes angry about waiting and starts shouting at reception. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Tell them to calm down or leave.",
+                        "Acknowledge their frustration, explain next steps without breaching confidentiality, and seek help if safety becomes a concern.",
+                        "Ignore them until they stop.",
+                        "Promise they will be seen next even if you cannot ensure it."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "De-escalate, communicate honestly, and maintain safety/privacy.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "93d7ec1e-aae0-4feb-a096-1d171345cfbf",
+                    "prompt": "A peer suggests copying parts of a reflective portfolio from a previous student. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Agree because reflection is informal.",
+                        "Decline, explain it is inappropriate, and encourage honest work; escalate if the behaviour continues.",
+                        "Copy it too so you are not disadvantaged.",
+                        "Report them publicly on social media."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Maintain integrity and respond proportionately.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b4f35205-9a63-4d2d-a626-a49a39fd24f4",
+                    "prompt": "You are unsure about a medication dose calculation and the medication is due soon. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Give it and correct later if needed.",
+                        "Do not administer until verified; seek a second check via protocol or another qualified professional.",
+                        "Ask the patient what dose they usually take and proceed.",
+                        "Document uncertainty but administer anyway."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Do not administer uncertain doses; verify.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "e24d27e1-5a72-44c2-bcab-66104bdaa0b2",
+                    "prompt": "A patient discloses they feel unsafe at home and asks you not to tell anyone. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Promise secrecy.",
+                        "Explain limits of confidentiality and follow safeguarding procedures promptly, seeking appropriate support.",
+                        "Tell them to contact police and end the conversation.",
+                        "Wait until the end of the week to mention it."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Safeguarding concerns require timely escalation.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics",
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "004c9f90-7f80-4465-b3b7-f4de36347fa9",
+                    "prompt": "You disagree with a plan in a meeting and are unsure of the evidence. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Stay silent to avoid looking uninformed.",
+                        "Ask clarifying questions and suggest checking guidance or seeking senior input, raising concerns respectfully.",
+                        "Argue strongly to make your point.",
+                        "Discuss your disagreement with the patient before the team decides."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Constructive questioning and evidence-seeking support safe decisions.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "4b8bd866-3b66-4777-8544-60c18c1ba36a",
+                    "prompt": "A colleague asks you to sign that you completed a safety check you did not perform. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Sign to help them.",
+                        "Refuse and explain you cannot sign for checks you didn’t do; suggest completing/redoing the check properly.",
+                        "Sign but add a note 'not witnessed'.",
+                        "Ignore the request."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "False sign-off undermines safety and integrity.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics",
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "309b627d-f675-40dd-b598-458a9372c032",
+                    "prompt": "You notice a spill in a corridor with no warning sign. What should you do first?",
+                    "supplement": "",
+                    "options": [
+                        "Walk past and report it later.",
+                        "Make the area safe immediately (warn others/put a sign) and arrange cleaning per policy.",
+                        "Stand nearby and watch.",
+                        "Take a photo and share it in a group chat."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Control immediate hazards promptly to prevent harm.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "c7405818-7bdd-4d16-8acc-1326b682f51b",
+                    "prompt": "A patient asks you to interpret their scan result, but you are not qualified. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Give your best guess to reassure them.",
+                        "Explain your role and arrange for the appropriate clinician to discuss the result.",
+                        "Tell them to search online.",
+                        "Avoid answering and leave."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Be honest about limits and ensure the right professional explains.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b4dc61ce-bbfd-4331-85c1-c6cbff5a811c",
+                    "prompt": "You see a teammate repeatedly interrupt during handover and key details are being missed. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Interrupt them back more forcefully.",
+                        "Politely suggest one person speaks at a time and, if needed, ask the handover lead to manage the discussion.",
+                        "Say nothing to avoid tension.",
+                        "Leave and read the notes later."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Respectful intervention supports teamwork and safety.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "teamwork"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "53ce892c-6809-4034-8780-565d0d0537a9",
+                    "prompt": "A patient offers you an expensive gift. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Accept it quietly.",
+                        "Politely decline or declare it according to local policy and discuss with a supervisor.",
+                        "Accept it if they insist.",
+                        "Sell it and donate the money without telling anyone."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Expensive gifts can create conflicts; follow policy and maintain boundaries.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "deb959d2-6ef1-4367-aeeb-c4e9957f8df7",
+                    "prompt": "You think confidential paperwork may have been left visible on a desk in a shared office. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Hide it and say nothing.",
+                        "Secure it immediately and report the incident according to policy, reflecting on prevention.",
+                        "Assume nobody saw it and ignore it.",
+                        "Blame cleaning staff."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Address and report potential confidentiality incidents.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "3f09c5ba-43cb-4760-ac26-058949c3d319",
+                    "prompt": "You overhear derogatory jokes about a patient. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Join in to fit in.",
+                        "Challenge the behaviour professionally and escalate through the correct route if it continues.",
+                        "Ignore it; it is only humour.",
+                        "Tell the patient immediately exactly what was said."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Address unprofessional behaviour and escalate if needed.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "bdde8e18-1566-4aad-ba5f-61cdfb073a0e",
+                    "prompt": "A relative asks for confidential information about a patient who has capacity. The patient is not present. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Share information because the relative is worried.",
+                        "Explain you need the patient’s consent before sharing and check with the patient.",
+                        "Share only small details.",
+                        "Refuse to speak even if the patient later consents."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Consent is required to share confidential information when capacity is present.",
+                    "difficulty": "hard",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "da33e862-46bc-440a-a4ae-dd012b69abaf",
+                    "prompt": "You are running late and consider skipping an identity check to save time. What is the most appropriate action?",
+                    "supplement": "",
+                    "options": [
+                        "Skip it because you know the patient.",
+                        "Complete the identity check properly and inform the team about the delay.",
+                        "Ask someone else to tick the box for you.",
+                        "Do the check afterwards."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Safety checks must not be bypassed.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "patient-safety"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "b2b49d8b-d5fe-4459-9317-f638a8345b1f",
+                    "prompt": "A student posts a photo in uniform outside the clinic with a ward sign visible. No patients are shown. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Like the post.",
+                        "Privately advise them to remove it and remind them of policy; escalate if they refuse.",
+                        "Comment publicly criticising them.",
+                        "Ignore it because no patients are shown."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Address privately first and escalate if needed.",
+                    "difficulty": "medium",
+                    "tags": [
+                        "ethics"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                },
+                {
+                    "id": "d22381be-3bc2-4dc5-91b1-280bc1c41c44",
+                    "prompt": "A patient nods during discharge instructions, but you suspect they do not understand. What should you do?",
+                    "supplement": "",
+                    "options": [
+                        "Assume they understand because they nodded.",
+                        "Use teach-back: ask them to explain the plan in their own words, then clarify.",
+                        "Hand them a leaflet and end the conversation.",
+                        "Ask them to call later if confused."
+                    ],
+                    "correctIndex": 1,
+                    "rationale": "Teach-back checks comprehension and reduces errors.",
+                    "difficulty": "easy",
+                    "tags": [
+                        "communication"
+                    ],
+                    "source": "AI-generated",
+                    "createdBy": "ChatGPT"
+                }
+            ]
+        }
+    ]
+}
